@@ -1,0 +1,2483 @@
+,date,away_team,away_runs,away_hits,away_errors,home_team,home_runs,home_hits,home_errors
+0,2019-03-20,Mariners,9,7,1,Athletics,7,9,0
+1,2019-03-20,Pirates,6,10,0,Twins,5,11,0
+2,2019-03-20,Tigers,3,4,1,Phillies,1,6,0
+3,2019-03-20,Marlins,6,11,0,Cardinals,0,3,1
+4,2019-03-20,Yankees,1,4,2,Astros,2,6,0
+5,2019-03-20,Braves,8,9,3,Blue Jays,7,6,0
+6,2019-03-20,Reds,6,11,1,Rangers,1,6,1
+7,2019-03-20,D-backs,11,16,0,White Sox,2,5,0
+8,2019-03-20,Brewers,10,13,0,Padres,7,10,1
+9,2019-03-20,Red Sox,6,8,0,Orioles,4,10,1
+10,2019-03-20,Angels,2,8,0,Indians,4,8,0
+11,2019-03-20,Royals,8,8,0,Rockies,7,12,0
+12,2019-03-20,Dodgers,4,10,3,Cubs,4,7,2
+13,2019-03-20,Indians,0,4,0,Giants,13,16,0
+14,2019-03-21,Mariners,5,9,1,Athletics,4,10,0
+15,2019-03-21,Astros,3,7,1,Tigers,5,6,0
+16,2019-03-21,Orioles,5,7,0,Pirates,7,7,0
+17,2019-03-21,Blue Jays,6,9,0,Phillies,13,12,0
+18,2019-03-21,Braves,1,10,1,Rays,8,9,0
+19,2019-03-21,Yankees,3,6,1,Cardinals,11,14,0
+20,2019-03-21,Marlins,0,6,0,Mets,6,9,1
+21,2019-03-21,Royals,14,16,2,Reds,6,10,2
+22,2019-03-21,Giants,5,10,1,Cubs,5,10,0
+23,2019-03-21,Indians,3,10,1,Rangers,7,14,0
+24,2019-03-21,Rangers,2,7,1,White Sox,12,12,1
+25,2019-03-21,Dodgers,5,9,1,Brewers,11,11,1
+26,2019-03-21,Angels,2,5,0,D-backs,1,6,0
+27,2019-03-21,Rays,0,4,2,Red Sox,8,10,0
+28,2019-03-21,Cardinals,1,8,1,Nationals,7,6,1
+29,2019-03-21,Reds,3,5,3,Mariners,6,9,0
+30,2019-03-22,Pirates,2,8,1,Rays,3,9,1
+31,2019-03-22,Cardinals,15,21,0,Mets,5,14,3
+32,2019-03-22,D-backs,10,12,0,Dodgers,4,9,0
+33,2019-03-22,Rangers,3,7,2,Cubs,7,8,0
+34,2019-03-22,Reds,4,6,0,Brewers,6,9,1
+35,2019-03-22,White Sox,4,7,1,Angels,5,8,0
+36,2019-03-22,Mets,3,9,0,Astros,7,12,1
+37,2019-03-22,Red Sox,10,18,1,Twins,6,12,3
+38,2019-03-22,Tigers,3,11,1,Braves,4,7,1
+39,2019-03-22,Orioles,0,4,0,Blue Jays,4,9,0
+40,2019-03-22,Phillies,3,7,0,Yankees,6,6,0
+41,2019-03-22,Nationals,5,6,1,Marlins,5,13,1
+42,2019-03-22,Cubs,3,6,3,Indians,8,12,1
+43,2019-03-22,Giants,3,6,2,Royals,15,21,1
+44,2019-03-22,Padres,5,10,0,Rockies,6,8,0
+45,2019-03-22,Angels,7,11,1,Mariners,8,9,1
+46,2019-03-22,Rockies,4,10,3,Giants,6,8,0
+47,2019-03-23,Pirates,3,9,1,Red Sox,12,15,0
+48,2019-03-23,Cardinals,4,9,0,Nationals,4,9,1
+49,2019-03-23,Rays,7,11,1,Tigers,8,14,0
+50,2019-03-23,Phillies,3,8,0,Pirates,5,7,0
+51,2019-03-23,Mets,12,15,0,Braves,2,5,2
+52,2019-03-23,Blue Jays,7,9,0,Yankees,3,8,2
+53,2019-03-23,Canada Jr. Team,3,7,3,Blue Jays,8,7,0
+54,2019-03-23,White Sox,5,11,0,Dodgers,1,3,1
+55,2019-03-23,Brewers,7,11,0,Rangers,3,8,1
+56,2019-03-23,Reds,5,8,2,Indians,8,11,0
+57,2019-03-23,D-backs,2,9,0,Giants,3,8,1
+58,2019-03-23,Royals,6,8,0,Brewers,4,7,0
+59,2019-03-23,Angels,4,9,1,Padres,11,11,0
+60,2019-03-23,Twins,8,10,1,Orioles,7,9,0
+61,2019-03-23,Astros,5,10,0,Marlins,0,3,0
+62,2019-03-23,Cubs,6,9,0,Rockies,11,17,3
+63,2019-03-24,Nationals,4,10,2,Mets,8,9,0
+64,2019-03-24,Nationals,3,5,0,Astros,5,13,0
+65,2019-03-24,Pirates,1,9,0,Orioles,1,6,0
+66,2019-03-24,Blue Jays,6,12,2,Tigers,18,17,0
+67,2019-03-24,Orioles,4,11,3,Phillies,11,18,2
+68,2019-03-24,Marlins,1,6,1,Cardinals,2,3,0
+69,2019-03-24,Yankees,5,6,1,Twins,3,9,1
+70,2019-03-24,Rangers,3,5,1,Sounds,4,6,3
+71,2019-03-24,Rockies,4,7,0,Reds,3,8,0
+72,2019-03-24,Royals,3,4,0,Rangers,3,9,0
+73,2019-03-24,Indians,3,12,0,White Sox,7,11,0
+74,2019-03-24,Cubs,24,27,0,Padres,6,7,1
+75,2019-03-24,Brewers,3,6,0,D-backs,2,7,1
+76,2019-03-24,Giants,0,3,0,Athletics,5,4,0
+77,2019-03-24,Rays,2,8,0,Braves,4,8,0
+78,2019-03-24,Dodgers,4,6,2,Angels,8,11,3
+79,2019-03-25,Mets,9,14,0,Orioles,7,9,1
+80,2019-03-25,Rays,2,8,0,Phillies,3,6,0
+81,2019-03-25,Tigers Futures,1,5,0,Tigers,9,10,1
+82,2019-03-25,Red Wings,5,8,0,Twins,2,5,0
+83,2019-03-25,Rockies,3,9,0,Isotopes,7,9,1
+84,2019-03-25,Yankees,3,5,0,Nationals,5,8,0
+85,2019-03-25,Brewers,10,12,0,Blue Jays,5,8,1
+86,2019-03-25,Royals,2,8,1,Storm Chasers,3,6,1
+87,2019-03-25,Reds,5,9,1,Braves,8,8,2
+88,2019-03-25,Cardinals,6,6,3,Redbirds,3,4,0
+89,2019-03-25,Indians,10,10,1,Rangers,1,7,1
+90,2019-03-25,Pirates,9,14,0,Astros,12,11,1
+91,2019-03-25,Red Sox,2,7,0,Cubs,3,6,0
+92,2019-03-25,White Sox,6,10,0,D-backs,3,8,1
+93,2019-03-25,Athletics,5,8,1,Giants,4,6,2
+94,2019-03-25,Dodgers,8,10,0,Angels,7,9,1
+95,2019-03-25,Padres,8,10,0,Mariners,0,2,2
+96,2019-03-26,Tigers,3,10,1,Rays,9,11,0
+97,2019-03-26,Reds,5,8,2,Braves,7,11,0
+98,2019-03-26,Indians,4,8,1,Rangers,5,8,2
+99,2019-03-26,Rockies,5,7,1,Twins,5,11,2
+100,2019-03-26,Pirates,5,8,0,Astros,1,3,1
+101,2019-03-26,Red Sox,7,7,1,Cubs,16,15,0
+102,2019-03-26,White Sox,7,14,0,D-backs,1,7,0
+103,2019-03-26,Padres,1,7,0,Mariners,0,4,0
+104,2019-03-26,Brewers,0,5,1,Blue Jays,2,7,1
+105,2019-03-26,Athletics,4,7,0,Giants,2,6,0
+106,2019-03-26,Angels,2,6,1,Dodgers,9,8,1
+107,2019-03-28,Mets,2,5,0,Nationals,0,5,0
+108,2019-03-28,Orioles,2,8,0,Yankees,7,9,1
+109,2019-03-28,Cardinals,4,5,0,Brewers,5,7,0
+110,2019-03-28,Braves,4,7,2,Phillies,10,7,0
+111,2019-03-28,Tigers,2,4,0,Blue Jays,0,2,0
+112,2019-03-28,Astros,5,10,1,Rays,1,4,0
+113,2019-03-28,Cubs,12,13,0,Rangers,4,6,0
+114,2019-03-28,Angels,0,3,0,Athletics,4,7,1
+115,2019-03-28,D-backs,5,9,0,Dodgers,12,12,0
+116,2019-03-28,Pirates,3,5,2,Reds,5,6,0
+117,2019-03-28,Giants,0,5,0,Padres,2,6,0
+118,2019-03-28,Indians,0,2,0,Twins,2,4,0
+119,2019-03-28,Rockies,6,9,1,Marlins,3,4,2
+120,2019-03-28,White Sox,3,4,3,Royals,5,5,0
+121,2019-03-28,Red Sox,4,11,2,Mariners,12,12,2
+122,2019-03-29,Tigers,0,2,1,Blue Jays,6,7,0
+123,2019-03-29,Astros,2,6,2,Rays,4,6,0
+124,2019-03-29,Rockies,6,11,0,Marlins,1,2,0
+125,2019-03-29,Cardinals,9,14,0,Brewers,5,8,0
+126,2019-03-29,Angels,6,10,0,Athletics,2,7,0
+127,2019-03-29,D-backs,5,10,0,Dodgers,4,11,0
+128,2019-03-29,Red Sox,7,8,1,Mariners,6,8,1
+129,2019-03-29,Giants,1,6,0,Padres,4,8,0
+130,2019-03-30,Mets,11,14,2,Nationals,8,9,1
+131,2019-03-30,Orioles,5,9,0,Yankees,3,10,3
+132,2019-03-30,Indians,2,4,1,Twins,1,2,0
+133,2019-03-30,White Sox,6,10,1,Royals,8,10,0
+134,2019-03-30,Tigers,0,5,0,Blue Jays,3,6,0
+135,2019-03-30,Braves,6,10,0,Phillies,8,9,0
+136,2019-03-30,Astros,1,8,1,Rays,3,7,0
+137,2019-03-30,Rockies,3,8,1,Marlins,7,16,0
+138,2019-03-30,Cardinals,2,7,1,Brewers,4,8,0
+139,2019-03-30,Cubs,6,9,1,Rangers,8,10,0
+140,2019-03-30,Giants,3,9,1,Padres,2,8,0
+141,2019-03-30,Angels,2,6,0,Athletics,4,7,1
+142,2019-03-30,D-backs,5,7,1,Dodgers,18,19,0
+143,2019-03-30,Red Sox,5,9,2,Mariners,6,10,3
+144,2019-03-31,Orioles,7,8,1,Yankees,5,9,1
+145,2019-03-31,Tigers,4,10,0,Blue Jays,3,8,1
+146,2019-03-31,Pirates,5,10,0,Reds,0,4,4
+147,2019-03-31,Astros,1,3,0,Rays,3,8,0
+148,2019-03-31,Rockies,0,5,0,Marlins,3,5,0
+149,2019-03-31,Mets,5,13,1,Nationals,6,11,0
+150,2019-03-31,Indians,3,6,1,Twins,9,15,0
+151,2019-03-31,Cardinals,4,7,0,Brewers,5,9,1
+152,2019-03-31,White Sox,6,11,0,Royals,3,6,0
+153,2019-03-31,Cubs,10,17,0,Rangers,11,11,0
+154,2019-03-31,Angels,1,3,2,Athletics,2,7,0
+155,2019-03-31,D-backs,7,13,3,Dodgers,8,8,0
+156,2019-03-31,Red Sox,8,9,1,Mariners,10,12,1
+157,2019-03-31,Giants,1,2,3,Padres,3,8,0
+158,2019-03-31,Braves,1,4,0,Phillies,5,5,0
+159,2019-04-01,Cardinals,6,8,1,Pirates,5,6,2
+160,2019-04-01,White Sox,3,3,1,Indians,5,8,1
+161,2019-04-01,Tigers,1,2,1,Yankees,3,5,1
+162,2019-04-01,Brewers,4,11,0,Reds,3,8,1
+163,2019-04-01,Orioles,6,6,0,Blue Jays,5,6,1
+164,2019-04-01,Rockies,1,6,1,Rays,7,9,0
+165,2019-04-01,Cubs,0,9,6,Braves,8,12,1
+166,2019-04-01,Mets,7,10,1,Marlins,3,9,0
+167,2019-04-01,Astros,2,8,0,Rangers,1,2,0
+168,2019-04-01,Red Sox,0,4,1,Athletics,7,9,0
+169,2019-04-01,D-backs,10,15,0,Padres,3,6,1
+170,2019-04-01,Angels,3,8,1,Mariners,6,10,4
+171,2019-04-01,Giants,4,9,0,Dodgers,2,7,1
+172,2019-04-02,Tigers,3,11,0,Yankees,1,6,0
+173,2019-04-02,Brewers,4,7,0,Reds,3,4,0
+174,2019-04-02,Phillies,8,14,0,Nationals,2,7,0
+175,2019-04-02,Orioles,2,10,0,Blue Jays,1,6,1
+176,2019-04-02,Rockies,0,2,1,Rays,4,8,0
+177,2019-04-02,Mets,6,9,1,Marlins,5,16,1
+178,2019-04-02,Astros,4,12,0,Rangers,6,9,0
+179,2019-04-02,Twins,5,12,1,Royals,4,10,0
+180,2019-04-02,Red Sox,0,7,0,Athletics,1,3,0
+181,2019-04-02,D-backs,8,14,0,Padres,5,11,0
+182,2019-04-02,Angels,1,4,0,Mariners,2,5,0
+183,2019-04-02,Giants,5,9,2,Dodgers,6,7,1
+184,2019-04-03,Brewers,1,2,0,Reds,0,3,0
+185,2019-04-03,Phillies,8,10,3,Nationals,9,12,1
+186,2019-04-03,Rockies,1,5,1,Rays,0,6,0
+187,2019-04-03,White Sox,8,13,3,Indians,3,5,1
+188,2019-04-03,Twins,7,11,1,Royals,6,9,0
+189,2019-04-03,D-backs,1,7,0,Padres,4,5,1
+190,2019-04-03,Tigers,2,3,1,Yankees,1,5,1
+191,2019-04-03,Orioles,3,6,1,Blue Jays,5,10,0
+192,2019-04-03,Mets,6,10,0,Marlins,4,7,1
+193,2019-04-03,Cardinals,5,7,1,Pirates,4,8,0
+194,2019-04-03,Cubs,4,12,1,Braves,6,8,0
+195,2019-04-03,Astros,0,6,0,Rangers,4,5,2
+196,2019-04-03,Red Sox,6,9,1,Athletics,3,5,1
+197,2019-04-03,Giants,3,6,0,Dodgers,5,7,0
+198,2019-04-04,Royals,4,8,2,Tigers,5,6,1
+199,2019-04-04,Nationals,4,5,2,Mets,0,4,0
+200,2019-04-04,Yankees,8,12,0,Orioles,4,10,0
+201,2019-04-04,Red Sox,3,10,0,Athletics,7,13,0
+202,2019-04-04,Blue Jays,1,3,1,Indians,4,7,0
+203,2019-04-04,Reds,0,6,0,Pirates,2,10,0
+204,2019-04-04,Cubs,4,6,0,Braves,9,13,0
+205,2019-04-04,Rangers,11,15,2,Angels,4,8,1
+206,2019-04-05,Mariners,8,9,3,White Sox,10,9,0
+207,2019-04-05,Dodgers,10,13,1,Rockies,6,10,1
+208,2019-04-05,Padres,5,9,0,Cardinals,3,4,0
+209,2019-04-05,Rays,5,11,2,Giants,2,8,1
+210,2019-04-05,Reds,0,3,0,Pirates,2,5,0
+211,2019-04-05,Twins,4,11,3,Phillies,10,11,1
+212,2019-04-05,Red Sox,8,12,0,D-backs,15,18,0
+213,2019-04-05,Blue Jays,2,3,1,Indians,3,4,0
+214,2019-04-05,Marlins,0,3,0,Braves,4,7,0
+215,2019-04-05,Athletics,2,7,0,Astros,3,9,0
+216,2019-04-05,Cubs,10,12,1,Brewers,13,15,0
+217,2019-04-05,Rangers,1,6,0,Angels,3,6,2
+218,2019-04-06,Royals,4,6,1,Tigers,7,10,1
+219,2019-04-06,Nationals,5,7,0,Mets,6,11,0
+220,2019-04-06,Reds,5,8,0,Pirates,6,12,1
+221,2019-04-06,Twins,6,7,0,Phillies,2,7,1
+222,2019-04-06,Mariners,9,14,0,White Sox,2,10,1
+223,2019-04-06,Padres,6,9,1,Cardinals,4,9,1
+224,2019-04-06,Rays,4,9,1,Giants,6,8,0
+225,2019-04-06,Rangers,1,6,1,Angels,5,10,0
+226,2019-04-06,Blue Jays,2,10,1,Indians,7,8,0
+227,2019-04-06,Yankees,6,11,2,Orioles,4,8,0
+228,2019-04-06,Athletics,0,6,0,Astros,6,11,0
+229,2019-04-06,Cubs,14,12,0,Brewers,8,10,2
+230,2019-04-06,Marlins,4,8,2,Braves,2,6,0
+231,2019-04-06,Red Sox,4,6,0,D-backs,5,11,0
+232,2019-04-06,Dodgers,7,11,0,Rockies,2,6,0
+233,2019-04-07,Twins,1,7,1,Phillies,2,4,0
+234,2019-04-07,Yankees,15,15,1,Orioles,3,5,0
+235,2019-04-07,Royals,1,7,0,Tigers,3,5,0
+236,2019-04-07,Nationals,12,8,1,Mets,9,11,1
+237,2019-04-07,Blue Jays,1,3,0,Indians,3,6,0
+238,2019-04-07,Marlins,3,7,1,Braves,4,7,0
+239,2019-04-07,Reds,5,7,0,Pirates,7,12,2
+240,2019-04-07,Athletics,8,11,0,Astros,9,14,2
+241,2019-04-07,Mariners,12,12,1,White Sox,5,10,0
+242,2019-04-07,Cubs,2,6,0,Brewers,4,10,1
+243,2019-04-07,Padres,1,6,1,Cardinals,4,10,1
+244,2019-04-07,Rays,3,10,0,Giants,0,5,0
+245,2019-04-07,Rangers,2,6,1,Angels,7,9,0
+246,2019-04-07,Red Sox,1,5,0,D-backs,0,3,0
+247,2019-04-07,Dodgers,12,12,0,Rockies,6,10,2
+248,2019-04-08,Rays,5,11,0,White Sox,1,9,0
+249,2019-04-08,Pirates,0,7,4,Cubs,10,8,0
+250,2019-04-08,Athletics,4,11,2,Orioles,12,15,2
+251,2019-04-08,Nationals,3,7,1,Phillies,4,10,0
+252,2019-04-08,Yankees,3,8,0,Astros,4,7,0
+253,2019-04-08,Dodgers,3,5,0,Cardinals,4,5,0
+254,2019-04-08,Mariners,13,15,0,Royals,5,10,0
+255,2019-04-08,Braves,8,9,0,Rockies,6,8,0
+256,2019-04-08,Padres,6,7,2,Giants,5,5,0
+257,2019-04-08,Brewers,2,6,1,Angels,5,5,1
+258,2019-04-09,Indians,8,8,1,Tigers,2,8,2
+259,2019-04-09,Blue Jays,7,10,2,Red Sox,5,8,0
+260,2019-04-09,Rays,10,13,0,White Sox,5,7,0
+261,2019-04-09,Marlins,0,4,1,Reds,14,16,1
+262,2019-04-09,Athletics,13,14,0,Orioles,2,7,1
+263,2019-04-09,Nationals,10,14,0,Phillies,6,9,1
+264,2019-04-09,Twins,14,17,0,Mets,8,11,1
+265,2019-04-09,Dodgers,0,7,1,Cardinals,4,6,1
+266,2019-04-09,Yankees,3,5,1,Astros,6,11,0
+267,2019-04-09,Mariners,6,15,1,Royals,3,8,0
+268,2019-04-09,Braves,7,12,1,Rockies,1,6,0
+269,2019-04-09,Rangers,4,8,1,D-backs,5,9,1
+270,2019-04-09,Padres,2,7,0,Giants,7,7,0
+271,2019-04-09,Brewers,8,10,0,Angels,11,12,0
+272,2019-04-10,Indians,1,5,0,Tigers,4,12,0
+273,2019-04-10,Rays,9,14,0,White Sox,1,6,1
+274,2019-04-10,Padres,3,6,0,Giants,1,7,1
+275,2019-04-10,Marlins,1,3,0,Reds,2,3,0
+276,2019-04-10,Athletics,10,13,0,Orioles,3,4,0
+277,2019-04-10,Nationals,15,17,0,Phillies,1,3,2
+278,2019-04-10,Twins,6,9,0,Mets,9,5,0
+279,2019-04-10,Yankees,6,10,1,Astros,8,16,0
+280,2019-04-10,Dodgers,2,5,0,Cardinals,7,10,0
+281,2019-04-10,Pirates,5,9,2,Cubs,2,6,2
+282,2019-04-10,Mariners,6,11,1,Royals,5,10,0
+283,2019-04-10,Rangers,5,8,1,D-backs,2,6,2
+284,2019-04-10,Brewers,2,7,0,Angels,4,5,1
+285,2019-04-11,Athletics,8,11,1,Orioles,5,4,2
+286,2019-04-11,Marlins,0,5,0,Reds,5,10,0
+287,2019-04-11,Indians,4,11,1,Tigers,0,3,0
+288,2019-04-11,Mariners,7,12,2,Royals,6,8,0
+289,2019-04-11,Dodgers,7,10,2,Cardinals,11,10,0
+290,2019-04-11,Blue Jays,6,8,1,Red Sox,7,8,0
+291,2019-04-11,Mets,6,7,0,Braves,3,9,0
+292,2019-04-11,Pirates,0,5,1,Cubs,2,5,0
+293,2019-04-11,Padres,7,8,1,D-backs,6,8,0
+294,2019-04-11,Rockies,0,3,0,Giants,1,6,0
+295,2019-04-12,Angels,1,4,1,Cubs,5,10,0
+296,2019-04-12,Pirates,6,10,0,Nationals,3,7,1
+297,2019-04-12,White Sox,9,12,1,Yankees,6,7,0
+298,2019-04-12,Rays,11,16,1,Blue Jays,7,9,0
+299,2019-04-12,Orioles,4,4,0,Red Sox,6,11,1
+300,2019-04-12,Phillies,9,14,0,Marlins,1,5,2
+301,2019-04-12,Mets,6,10,0,Braves,2,7,0
+302,2019-04-12,Athletics,8,11,0,Rangers,6,10,0
+303,2019-04-12,Indians,1,4,2,Royals,8,13,0
+304,2019-04-12,Padres,2,5,0,D-backs,1,3,0
+305,2019-04-12,Astros,10,16,1,Mariners,6,9,0
+306,2019-04-12,Brewers,8,12,0,Dodgers,5,12,1
+307,2019-04-12,Rockies,2,11,0,Giants,3,8,2
+308,2019-04-13,Orioles,9,13,0,Red Sox,5,6,3
+309,2019-04-13,White Sox,0,1,1,Yankees,4,7,1
+310,2019-04-13,Tigers,3,10,0,Twins,4,5,1
+311,2019-04-13,Angels,6,9,1,Cubs,5,9,0
+312,2019-04-13,Rays,1,8,0,Blue Jays,3,5,3
+313,2019-04-13,Pirates,2,8,0,Nationals,3,6,1
+314,2019-04-13,Rockies,2,6,0,Giants,5,11,1
+315,2019-04-13,Phillies,3,6,0,Marlins,10,18,0
+316,2019-04-13,Cardinals,2,9,0,Reds,5,6,0
+317,2019-04-13,Indians,0,2,0,Royals,3,7,0
+318,2019-04-13,Mets,7,11,1,Braves,11,13,1
+319,2019-04-13,Padres,5,10,0,D-backs,4,10,0
+320,2019-04-13,Astros,3,6,0,Mariners,1,4,0
+321,2019-04-13,Brewers,4,9,0,Dodgers,1,8,0
+322,2019-04-14,Orioles,0,5,1,Red Sox,4,7,1
+323,2019-04-14,White Sox,5,9,1,Yankees,2,4,0
+324,2019-04-14,Rays,8,9,2,Blue Jays,4,8,2
+325,2019-04-14,Phillies,3,12,0,Marlins,1,5,1
+326,2019-04-14,Pirates,4,8,0,Nationals,3,11,0
+327,2019-04-14,Tigers,4,8,0,Twins,6,14,0
+328,2019-04-14,Indians,8,11,1,Royals,9,11,0
+329,2019-04-14,Athletics,7,10,2,Rangers,8,8,0
+330,2019-04-14,Rockies,4,5,0,Giants,0,1,1
+331,2019-04-14,Padres,4,7,0,D-backs,8,13,0
+332,2019-04-14,Astros,3,7,0,Mariners,2,4,0
+333,2019-04-14,Cardinals,9,11,1,Reds,5,10,0
+334,2019-04-14,Brewers,1,4,0,Dodgers,7,11,0
+335,2019-04-14,Mets,3,11,1,Braves,7,10,0
+336,2019-04-15,Orioles,8,10,0,Red Sox,1,4,1
+337,2019-04-15,Mets,7,12,0,Phillies,6,12,2
+338,2019-04-15,Cubs,7,8,1,Marlins,2,6,2
+339,2019-04-15,Blue Jays,5,11,1,Twins,3,5,0
+340,2019-04-15,Cardinals,7,8,1,Brewers,10,13,0
+341,2019-04-15,Angels,7,8,1,Rangers,12,14,0
+342,2019-04-15,Royals,4,6,0,White Sox,5,9,1
+343,2019-04-15,Reds,3,7,1,Dodgers,4,5,0
+344,2019-04-15,Rockies,5,8,0,Padres,2,8,1
+345,2019-04-15,Indians,6,7,0,Mariners,4,8,2
+346,2019-04-16,Red Sox,0,3,1,Yankees,8,11,0
+347,2019-04-16,Pirates,5,8,0,Tigers,3,9,0
+348,2019-04-16,Giants,7,10,0,Nationals,3,8,1
+349,2019-04-16,Mets,3,10,4,Phillies,14,13,0
+350,2019-04-16,Orioles,2,7,1,Rays,4,6,0
+351,2019-04-16,Cubs,4,9,0,Marlins,0,7,0
+352,2019-04-16,D-backs,9,12,0,Braves,6,10,0
+353,2019-04-16,Blue Jays,6,9,0,Twins,5,6,0
+354,2019-04-16,Cardinals,4,11,0,Brewers,8,12,0
+355,2019-04-16,Angels,0,3,0,Rangers,5,9,0
+356,2019-04-16,Royals,1,5,0,White Sox,5,9,0
+357,2019-04-16,Rockies,8,12,1,Padres,2,5,1
+358,2019-04-16,Astros,9,9,0,Athletics,1,4,0
+359,2019-04-16,Reds,1,4,0,Dodgers,6,13,0
+360,2019-04-16,Indians,4,13,2,Mariners,2,6,0
+361,2019-04-17,Mets,2,7,0,Phillies,3,5,0
+362,2019-04-17,Cardinals,6,15,0,Brewers,3,7,0
+363,2019-04-17,Royals,4,7,1,White Sox,3,9,3
+364,2019-04-17,Reds,2,3,0,Dodgers,3,3,2
+365,2019-04-17,Red Sox,3,8,1,Yankees,5,5,0
+366,2019-04-17,Pirates,3,6,0,Tigers,2,7,1
+367,2019-04-17,Indians,1,3,0,Mariners,0,3,0
+368,2019-04-17,Giants,6,10,0,Nationals,9,11,1
+369,2019-04-17,Orioles,1,3,0,Rays,8,13,1
+370,2019-04-17,Cubs,6,8,1,Marlins,0,5,0
+371,2019-04-17,D-backs,3,6,0,Braves,2,7,1
+372,2019-04-17,Blue Jays,1,8,0,Twins,4,9,0
+373,2019-04-17,Angels,4,10,2,Rangers,5,6,0
+374,2019-04-17,Astros,1,4,1,Athletics,2,4,2
+375,2019-04-18,D-backs,4,10,0,Braves,1,7,2
+376,2019-04-18,Giants,2,5,0,Nationals,4,8,0
+377,2019-04-18,Blue Jays,7,9,0,Twins,4,8,0
+378,2019-04-18,White Sox,7,10,0,Tigers,9,14,4
+379,2019-04-18,Royals,6,11,1,Yankees,1,4,0
+380,2019-04-18,Orioles,6,15,1,Rays,5,9,0
+381,2019-04-18,Dodgers,3,6,0,Brewers,1,5,0
+382,2019-04-18,Phillies,2,5,1,Rockies,6,11,0
+383,2019-04-18,Mariners,11,13,1,Angels,10,16,0
+384,2019-04-18,Reds,4,5,0,Padres,1,6,0
+385,2019-04-19,D-backs,1,7,0,Cubs,5,8,1
+386,2019-04-19,Giants,1,7,1,Pirates,4,6,0
+387,2019-04-19,Royals,2,5,2,Yankees,6,8,3
+388,2019-04-19,Red Sox,6,10,1,Rays,4,7,0
+389,2019-04-19,White Sox,7,11,0,Tigers,3,7,0
+390,2019-04-19,Nationals,2,6,1,Marlins,3,6,0
+391,2019-04-19,Astros,7,11,1,Rangers,2,4,2
+392,2019-04-19,Dodgers,5,7,0,Brewers,3,7,0
+393,2019-04-19,Mets,5,11,2,Cardinals,4,10,2
+394,2019-04-19,Phillies,3,17,1,Rockies,4,8,0
+395,2019-04-19,Mariners,5,6,0,Angels,3,9,0
+396,2019-04-19,Blue Jays,5,7,0,Athletics,1,6,0
+397,2019-04-19,Reds,3,4,3,Padres,2,4,2
+398,2019-04-20,Royals,2,6,0,Yankees,9,14,0
+399,2019-04-20,Mets,2,4,0,Cardinals,10,10,0
+400,2019-04-20,D-backs,6,13,0,Cubs,0,4,1
+401,2019-04-20,Giants,1,4,0,Pirates,3,4,1
+402,2019-04-20,Twins,6,9,0,Orioles,5,13,0
+403,2019-04-20,Twins,16,19,0,Orioles,7,11,0
+404,2019-04-20,Blue Jays,10,15,0,Athletics,1,6,0
+405,2019-04-20,Braves,4,6,0,Indians,8,10,0
+406,2019-04-20,Braves,8,9,0,Indians,7,9,0
+407,2019-04-20,Red Sox,6,8,0,Rays,5,11,0
+408,2019-04-20,Nationals,3,10,2,Marlins,9,11,0
+409,2019-04-20,Dodgers,0,2,0,Brewers,5,8,0
+410,2019-04-20,Astros,4,11,1,Rangers,9,10,0
+411,2019-04-20,Phillies,8,14,1,Rockies,5,14,0
+412,2019-04-20,Reds,4,7,0,Padres,2,7,1
+413,2019-04-20,Mariners,6,9,1,Angels,5,13,0
+414,2019-04-21,Twins,4,9,1,Orioles,3,9,1
+415,2019-04-21,Royals,6,10,0,Yankees,7,12,0
+416,2019-04-21,White Sox,3,6,1,Tigers,4,9,0
+417,2019-04-21,Nationals,5,9,0,Marlins,0,3,0
+418,2019-04-21,Giants,3,9,0,Pirates,2,5,0
+419,2019-04-21,Red Sox,4,8,0,Rays,3,7,0
+420,2019-04-21,Dodgers,6,10,0,Brewers,5,6,0
+421,2019-04-21,Mets,4,7,2,Cardinals,6,8,1
+422,2019-04-21,D-backs,1,3,1,Cubs,2,6,0
+423,2019-04-21,Astros,10,11,0,Rangers,11,10,1
+424,2019-04-21,Phillies,1,6,0,Rockies,4,10,2
+425,2019-04-21,Mariners,6,10,1,Angels,8,11,0
+426,2019-04-21,Blue Jays,5,13,1,Athletics,4,7,2
+427,2019-04-21,Reds,3,9,0,Padres,4,9,0
+428,2019-04-21,Braves,11,17,1,Indians,5,12,1
+429,2019-04-22,D-backs,12,17,0,Pirates,4,9,0
+430,2019-04-22,White Sox,12,15,1,Orioles,2,9,2
+431,2019-04-22,Royals,3,6,0,Rays,6,8,0
+432,2019-04-22,Phillies,1,3,3,Mets,5,9,0
+433,2019-04-22,Brewers,5,5,1,Cardinals,13,17,0
+434,2019-04-22,Twins,9,12,1,Astros,5,11,1
+435,2019-04-22,Nationals,5,6,0,Rockies,7,11,0
+436,2019-04-22,Rangers,1,6,1,Athletics,6,7,0
+437,2019-04-22,Yankees,4,5,0,Angels,3,7,1
+438,2019-04-23,Tigers,7,12,1,Red Sox,4,5,0
+439,2019-04-23,Tigers,4,12,0,Red Sox,2,9,0
+440,2019-04-23,Marlins,3,9,2,Indians,1,3,1
+441,2019-04-23,Braves,6,10,1,Reds,7,9,2
+442,2019-04-23,D-backs,2,6,0,Pirates,1,7,0
+443,2019-04-23,White Sox,1,6,1,Orioles,9,11,1
+444,2019-04-23,Giants,7,10,0,Blue Jays,6,9,1
+445,2019-04-23,Royals,2,6,0,Rays,5,7,0
+446,2019-04-23,Phillies,0,5,2,Mets,9,10,0
+447,2019-04-23,Brewers,3,5,0,Cardinals,4,11,1
+448,2019-04-23,Dodgers,2,7,0,Cubs,7,8,0
+449,2019-04-23,Twins,4,6,2,Astros,10,12,0
+450,2019-04-23,Nationals,6,10,1,Rockies,3,6,0
+451,2019-04-23,Rangers,5,14,1,Athletics,11,14,1
+452,2019-04-23,Yankees,7,14,1,Angels,5,8,0
+453,2019-04-23,Mariners,3,7,2,Padres,6,8,0
+454,2019-04-25,D-backs,5,9,0,Pirates,0,5,0
+455,2019-04-25,Dodgers,2,4,0,Cubs,1,7,1
+456,2019-04-25,Braves,2,11,0,Reds,4,5,0
+457,2019-04-25,Marlins,3,12,0,Phillies,1,4,0
+458,2019-04-25,Tigers,3,7,0,Red Sox,7,10,2
+459,2019-04-25,Indians,2,4,0,Astros,1,4,0
+460,2019-04-25,Yankees,5,9,2,Angels,11,9,1
+461,2019-04-25,Rangers,2,9,1,Mariners,14,14,1
+462,2019-04-26,Padres,4,6,1,Nationals,3,6,0
+463,2019-04-26,Marlins,0,5,0,Phillies,4,6,0
+464,2019-04-26,Athletics,2,5,0,Blue Jays,4,8,0
+465,2019-04-26,Brewers,10,10,0,Mets,2,7,0
+466,2019-04-26,Rockies,8,12,1,Braves,4,10,1
+467,2019-04-26,Indians,6,9,1,Astros,3,9,0
+468,2019-04-26,Orioles,1,8,1,Twins,6,10,0
+469,2019-04-26,Tigers,11,15,0,White Sox,12,21,0
+470,2019-04-26,Angels,5,10,0,Royals,1,5,0
+471,2019-04-26,Reds,12,14,0,Cardinals,1,8,0
+472,2019-04-26,Cubs,3,8,0,D-backs,8,11,0
+473,2019-04-26,Pirates,2,9,2,Dodgers,6,9,0
+474,2019-04-26,Rangers,4,6,0,Mariners,5,6,1
+475,2019-04-26,Yankees,7,15,0,Giants,3,5,2
+476,2019-04-27,Orioles,2,8,1,Twins,9,10,0
+477,2019-04-27,Reds,3,7,1,Cardinals,6,9,1
+478,2019-04-27,Athletics,1,4,1,Blue Jays,7,12,1
+479,2019-04-27,Indians,3,8,0,Astros,4,5,0
+480,2019-04-27,Padres,8,8,0,Nationals,3,5,1
+481,2019-04-27,Rays,2,4,2,Red Sox,1,5,0
+482,2019-04-27,Yankees,6,8,0,Giants,4,9,0
+483,2019-04-27,Marlins,9,17,0,Phillies,12,14,0
+484,2019-04-27,Brewers,8,14,1,Mets,6,12,2
+485,2019-04-27,Angels,4,7,0,Royals,9,15,0
+486,2019-04-27,Rockies,9,9,0,Braves,5,9,0
+487,2019-04-27,Cubs,9,12,1,D-backs,1,2,0
+488,2019-04-27,Pirates,1,5,1,Dodgers,3,6,0
+489,2019-04-27,Rangers,15,20,0,Mariners,1,3,3
+490,2019-04-28,Rays,5,5,0,Red Sox,2,7,2
+491,2019-04-28,Marlins,1,7,1,Phillies,5,4,0
+492,2019-04-28,Athletics,4,6,2,Blue Jays,5,11,1
+493,2019-04-28,Brewers,2,5,1,Mets,5,9,0
+494,2019-04-28,Rockies,7,9,1,Braves,8,10,1
+495,2019-04-28,Padres,6,11,3,Nationals,7,14,1
+496,2019-04-28,Orioles,1,4,1,Twins,4,6,1
+497,2019-04-28,Tigers,1,2,1,White Sox,4,9,1
+498,2019-04-28,Angels,7,9,0,Royals,3,6,1
+499,2019-04-28,Reds,2,8,0,Cardinals,5,7,2
+500,2019-04-28,Yankees,11,14,1,Giants,5,6,2
+501,2019-04-28,Cubs,6,13,0,D-backs,5,12,2
+502,2019-04-28,Pirates,6,9,1,Dodgers,7,10,2
+503,2019-04-28,Rangers,14,17,0,Mariners,1,7,4
+504,2019-04-28,Indians,1,8,0,Astros,4,6,0
+505,2019-04-29,Cardinals,6,9,0,Nationals,3,4,1
+506,2019-04-29,Reds,5,9,0,Mets,4,6,0
+507,2019-04-29,Athletics,4,8,2,Red Sox,9,12,0
+508,2019-04-29,Padres,1,5,2,Braves,3,6,0
+509,2019-04-29,Astros,0,5,0,Twins,1,3,0
+510,2019-04-29,Rockies,1,4,0,Brewers,5,8,1
+511,2019-04-29,Orioles,3,9,1,White Sox,5,9,2
+512,2019-04-29,Rays,8,11,1,Royals,5,5,0
+513,2019-04-29,Dodgers,2,9,0,Giants,3,11,0
+514,2019-04-30,Cardinals,3,7,1,Nationals,2,7,0
+515,2019-04-30,Tigers,3,7,1,Phillies,1,4,1
+516,2019-04-30,Reds,3,8,0,Mets,4,9,3
+517,2019-04-30,Athletics,1,3,1,Red Sox,5,7,0
+518,2019-04-30,Indians,7,9,0,Marlins,4,5,2
+519,2019-04-30,Padres,4,6,0,Braves,3,8,0
+520,2019-04-30,Astros,11,15,0,Twins,0,3,2
+521,2019-04-30,Rockies,3,4,0,Brewers,4,6,0
+522,2019-04-30,Pirates,6,14,0,Rangers,4,7,1
+523,2019-04-30,Yankees,1,5,0,D-backs,3,7,0
+524,2019-04-30,Dodgers,10,10,0,Giants,3,6,0
+525,2019-04-30,Blue Jays,3,5,0,Angels,4,7,0
+526,2019-04-30,Cubs,6,10,2,Mariners,5,8,0
+527,2019-05-01,Athletics,3,7,0,Red Sox,7,9,0
+528,2019-05-01,Rays,2,8,0,Royals,3,4,1
+529,2019-05-01,Rays,2,7,0,Royals,8,11,1
+530,2019-05-01,Pirates,7,8,1,Rangers,5,7,0
+531,2019-05-01,Yankees,2,7,0,D-backs,3,5,1
+532,2019-05-01,Orioles,5,11,3,White Sox,4,7,2
+533,2019-05-01,Orioles,6,11,2,White Sox,7,9,2
+534,2019-05-01,Cubs,11,10,1,Mariners,0,1,1
+535,2019-05-01,Cardinals,5,11,0,Nationals,1,9,1
+536,2019-05-01,Tigers,3,12,0,Phillies,7,15,0
+537,2019-05-01,Reds,1,4,0,Mets,0,5,1
+538,2019-05-01,Indians,2,6,0,Marlins,4,10,0
+539,2019-05-01,Padres,1,5,1,Braves,5,8,2
+540,2019-05-01,Rockies,11,10,0,Brewers,4,8,0
+541,2019-05-01,Astros,2,7,1,Twins,6,7,0
+542,2019-05-01,Dodgers,1,6,0,Giants,2,7,2
+543,2019-05-01,Blue Jays,3,6,2,Angels,6,8,2
+544,2019-05-02,Reds,0,4,0,Mets,1,4,1
+545,2019-05-02,Padres,11,17,0,Braves,2,10,1
+546,2019-05-02,Astros,2,8,0,Twins,8,10,0
+547,2019-05-02,Rockies,11,14,0,Brewers,6,10,2
+548,2019-05-02,Rays,3,7,0,Royals,1,5,0
+549,2019-05-02,Cardinals,1,9,2,Nationals,2,5,0
+550,2019-05-02,Red Sox,4,8,1,White Sox,6,9,0
+551,2019-05-02,Blue Jays,2,6,1,Angels,6,11,0
+552,2019-05-03,Cardinals,0,4,0,Cubs,4,6,0
+553,2019-05-03,Athletics,14,16,2,Pirates,1,7,2
+554,2019-05-03,Rays,7,12,0,Orioles,0,5,0
+555,2019-05-03,Nationals,2,6,0,Phillies,4,6,0
+556,2019-05-03,Twins,3,4,2,Yankees,6,8,1
+557,2019-05-03,Royals,3,7,0,Tigers,4,8,0
+558,2019-05-03,Mariners,1,8,0,Indians,2,4,0
+559,2019-05-03,Giants,12,17,3,Reds,11,13,0
+560,2019-05-03,Braves,7,10,0,Marlins,2,6,0
+561,2019-05-03,Blue Jays,1,11,0,Rangers,0,4,2
+562,2019-05-03,Red Sox,6,11,1,White Sox,1,5,0
+563,2019-05-03,Mets,1,7,0,Brewers,3,10,1
+564,2019-05-03,D-backs,10,12,3,Rockies,9,10,0
+565,2019-05-03,Dodgers,4,9,1,Padres,3,6,0
+566,2019-05-04,Twins,7,12,0,Yankees,3,7,2
+567,2019-05-04,Cardinals,5,9,1,Cubs,6,7,0
+568,2019-05-04,Royals,15,19,1,Tigers,3,8,1
+569,2019-05-04,Mariners,4,7,1,Indians,5,9,0
+570,2019-05-04,Braves,9,12,3,Marlins,2,3,3
+571,2019-05-04,Athletics,4,10,0,Pirates,6,12,0
+572,2019-05-04,Rays,0,3,1,Orioles,3,7,0
+573,2019-05-04,Nationals,10,13,3,Phillies,8,12,2
+574,2019-05-04,Astros,14,14,1,Angels,2,8,0
+575,2019-05-04,Giants,2,5,0,Reds,9,9,0
+576,2019-05-04,Red Sox,15,21,0,White Sox,2,7,2
+577,2019-05-04,Mets,3,10,3,Brewers,4,11,0
+578,2019-05-04,Blue Jays,5,9,1,Rangers,8,7,0
+579,2019-05-04,D-backs,9,12,0,Rockies,2,5,0
+580,2019-05-04,Dodgers,7,11,2,Padres,6,10,0
+581,2019-05-05,Royals,2,7,0,Tigers,5,9,1
+582,2019-05-05,Mariners,10,12,0,Indians,0,2,0
+583,2019-05-05,Braves,3,6,0,Marlins,1,6,1
+584,2019-05-05,Athletics,3,9,0,Pirates,5,8,0
+585,2019-05-05,Nationals,1,6,2,Phillies,7,8,1
+586,2019-05-05,Red Sox,9,9,0,White Sox,2,6,2
+587,2019-05-05,Mets,2,6,0,Brewers,3,5,0
+588,2019-05-05,Blue Jays,2,6,0,Rangers,10,12,0
+589,2019-05-05,D-backs,7,11,2,Rockies,8,10,1
+590,2019-05-05,Twins,1,4,1,Yankees,4,6,0
+591,2019-05-05,Astros,10,13,0,Angels,4,6,0
+592,2019-05-05,Dodgers,5,8,0,Padres,8,7,0
+593,2019-05-05,Giants,6,6,0,Reds,5,6,0
+594,2019-05-05,Cardinals,5,12,0,Cubs,13,12,4
+595,2019-05-06,Giants,4,5,0,Reds,12,14,1
+596,2019-05-06,White Sox,9,13,0,Indians,1,10,1
+597,2019-05-06,Mariners,3,7,1,Yankees,7,9,0
+598,2019-05-06,Red Sox,1,3,0,Orioles,4,8,1
+599,2019-05-06,Twins,8,12,0,Blue Jays,0,3,2
+600,2019-05-06,D-backs,1,2,0,Rays,12,13,1
+601,2019-05-06,Nationals,3,5,3,Brewers,5,11,1
+602,2019-05-06,Phillies,0,5,0,Cardinals,6,7,0
+603,2019-05-06,Marlins,6,6,0,Cubs,5,8,1
+604,2019-05-06,Royals,4,9,1,Astros,6,11,0
+605,2019-05-06,Mets,0,4,0,Padres,4,7,0
+606,2019-05-06,Braves,3,5,1,Dodgers,5,9,0
+607,2019-05-07,White Sox,2,8,0,Indians,0,5,0
+608,2019-05-07,Mariners,4,10,1,Yankees,5,9,2
+609,2019-05-07,Red Sox,8,7,0,Orioles,5,8,0
+610,2019-05-07,Rangers,4,5,0,Pirates,5,8,1
+611,2019-05-07,Twins,3,8,0,Blue Jays,0,6,0
+612,2019-05-07,Angels,5,9,1,Tigers,2,5,1
+613,2019-05-07,D-backs,3,7,0,Rays,6,12,0
+614,2019-05-07,Nationals,0,5,0,Brewers,6,8,1
+615,2019-05-07,Phillies,11,12,0,Cardinals,1,4,2
+616,2019-05-07,Marlins,2,9,0,Cubs,5,7,2
+617,2019-05-07,Royals,12,13,0,Astros,2,7,0
+618,2019-05-07,Giants,14,16,0,Rockies,4,10,0
+619,2019-05-07,Reds,0,0,1,Athletics,2,5,1
+620,2019-05-07,Mets,7,12,1,Padres,6,12,1
+621,2019-05-07,Braves,0,4,0,Dodgers,9,11,0
+622,2019-05-08,Rangers,9,9,2,Pirates,6,10,0
+623,2019-05-08,D-backs,3,9,1,Rays,2,8,0
+624,2019-05-08,Nationals,3,8,1,Brewers,7,11,1
+625,2019-05-08,Phillies,5,7,0,Cardinals,0,3,2
+626,2019-05-08,Mets,2,7,1,Padres,3,5,0
+627,2019-05-08,White Sox,3,9,0,Indians,5,12,0
+628,2019-05-08,Mariners,10,14,0,Yankees,1,5,1
+629,2019-05-08,Red Sox,2,8,0,Orioles,1,5,1
+630,2019-05-08,Twins,9,18,0,Blue Jays,1,2,1
+631,2019-05-08,Angels,3,7,1,Tigers,10,10,1
+632,2019-05-08,Marlins,2,8,0,Cubs,3,6,1
+633,2019-05-08,Royals,0,3,0,Astros,9,11,1
+634,2019-05-08,Reds,4,8,1,Athletics,5,11,0
+635,2019-05-08,Braves,4,11,0,Dodgers,9,9,0
+636,2019-05-09,Angels,13,15,0,Tigers,0,5,1
+637,2019-05-09,White Sox,0,2,1,Indians,5,9,0
+638,2019-05-09,Marlins,1,4,0,Cubs,4,8,0
+639,2019-05-09,Giants,11,9,0,Rockies,12,14,2
+640,2019-05-09,Reds,3,8,1,Athletics,0,6,1
+641,2019-05-09,Mariners,1,2,0,Yankees,3,9,1
+642,2019-05-09,Pirates,4,10,1,Cardinals,17,16,0
+643,2019-05-09,Rangers,2,3,0,Astros,4,9,1
+644,2019-05-09,Braves,2,5,0,D-backs,3,11,0
+645,2019-05-09,Nationals,6,9,0,Dodgers,0,6,3
+646,2019-05-10,Brewers,7,8,0,Cubs,0,7,1
+647,2019-05-10,Angels,8,12,1,Orioles,3,5,0
+648,2019-05-10,White Sox,3,6,1,Blue Jays,4,4,0
+649,2019-05-10,Mariners,1,8,2,Red Sox,14,15,0
+650,2019-05-10,Marlins,2,10,0,Mets,11,15,1
+651,2019-05-10,Yankees,4,7,0,Rays,3,8,2
+652,2019-05-10,Rangers,0,2,0,Astros,3,6,0
+653,2019-05-10,Tigers,0,3,1,Twins,6,7,0
+654,2019-05-10,Pirates,2,9,3,Cardinals,1,10,0
+655,2019-05-10,Phillies,1,4,1,Royals,5,8,0
+656,2019-05-10,Padres,2,12,0,Rockies,12,17,1
+657,2019-05-10,Indians,3,10,0,Athletics,4,10,0
+658,2019-05-10,Braves,2,7,1,D-backs,1,4,0
+659,2019-05-10,Nationals,0,4,0,Dodgers,5,9,0
+660,2019-05-10,Reds,7,9,0,Giants,0,4,2
+661,2019-05-11,Mariners,5,6,0,Red Sox,9,10,1
+662,2019-05-11,Tigers,5,10,0,Twins,3,7,1
+663,2019-05-11,Tigers,3,7,1,Twins,8,15,0
+664,2019-05-11,Pirates,2,4,0,Cardinals,1,2,0
+665,2019-05-11,Brewers,1,4,0,Cubs,2,9,0
+666,2019-05-11,White Sox,7,11,0,Blue Jays,2,8,3
+667,2019-05-11,Angels,7,10,0,Orioles,2,9,0
+668,2019-05-11,Indians,2,10,2,Athletics,3,4,0
+669,2019-05-11,Yankees,2,5,1,Rays,7,10,0
+670,2019-05-11,Marlins,1,6,0,Mets,4,9,0
+671,2019-05-11,Phillies,7,9,0,Royals,0,4,1
+672,2019-05-11,Padres,4,9,0,Rockies,3,6,0
+673,2019-05-11,Rangers,4,9,2,Astros,11,13,0
+674,2019-05-11,Braves,6,13,1,D-backs,4,8,0
+675,2019-05-11,Reds,5,10,1,Giants,4,9,0
+676,2019-05-11,Nationals,5,7,0,Dodgers,2,5,2
+677,2019-05-12,Angels,1,4,1,Orioles,5,9,1
+678,2019-05-12,Mariners,2,4,1,Red Sox,11,12,1
+679,2019-05-12,White Sox,5,10,0,Blue Jays,1,4,0
+680,2019-05-12,Yankees,7,9,0,Rays,1,7,0
+681,2019-05-12,Rangers,5,9,2,Astros,15,18,0
+682,2019-05-12,Tigers,5,8,0,Twins,3,10,0
+683,2019-05-12,Pirates,10,14,0,Cardinals,6,12,0
+684,2019-05-12,Phillies,6,8,0,Royals,1,6,1
+685,2019-05-12,Padres,7,10,1,Rockies,10,13,0
+686,2019-05-12,Reds,5,11,0,Giants,6,10,1
+687,2019-05-12,Indians,5,7,0,Athletics,3,7,0
+688,2019-05-12,Nationals,0,1,0,Dodgers,6,7,0
+689,2019-05-12,Braves,5,12,1,D-backs,3,14,0
+690,2019-05-12,Brewers,1,9,2,Cubs,4,8,1
+691,2019-05-13,Brewers,4,12,1,Phillies,7,11,1
+692,2019-05-13,Astros,8,11,0,Tigers,1,5,0
+693,2019-05-13,Angels,5,15,1,Twins,4,7,1
+694,2019-05-13,Indians,2,2,0,White Sox,5,9,1
+695,2019-05-13,Pirates,3,13,0,D-backs,9,13,1
+696,2019-05-13,Athletics,5,10,1,Mariners,6,7,1
+697,2019-05-14,Indians,9,11,1,White Sox,0,7,1
+698,2019-05-14,Cubs,3,11,0,Reds,1,3,0
+699,2019-05-14,Mets,6,8,0,Nationals,2,5,0
+700,2019-05-14,Brewers,6,12,1,Phillies,1,5,0
+701,2019-05-14,Rockies,5,6,2,Red Sox,4,9,0
+702,2019-05-14,Astros,11,14,0,Tigers,4,7,1
+703,2019-05-14,Rays,4,8,0,Marlins,0,6,0
+704,2019-05-14,Cardinals,14,14,0,Braves,3,3,0
+705,2019-05-14,Angels,3,11,0,Twins,4,7,0
+706,2019-05-14,Rangers,5,10,0,Royals,11,14,0
+707,2019-05-14,Pirates,6,11,0,D-backs,2,4,0
+708,2019-05-14,Blue Jays,7,10,0,Giants,3,5,1
+709,2019-05-14,Padres,3,7,1,Dodgers,6,8,0
+710,2019-05-14,Athletics,3,6,0,Mariners,4,7,2
+711,2019-05-15,Angels,7,18,1,Twins,8,10,1
+712,2019-05-15,Orioles,3,7,1,Yankees,5,7,0
+713,2019-05-15,Orioles,1,7,1,Yankees,3,7,1
+714,2019-05-15,Pirates,1,6,1,D-backs,11,11,0
+715,2019-05-15,Blue Jays,3,5,1,Giants,4,8,3
+716,2019-05-15,Cubs,5,9,0,Reds,6,12,1
+717,2019-05-15,Mets,1,4,0,Nationals,5,9,0
+718,2019-05-15,Brewers,5,7,0,Phillies,2,9,2
+719,2019-05-15,Rockies,5,11,0,Red Sox,6,13,0
+720,2019-05-15,Astros,5,8,1,Tigers,1,2,2
+721,2019-05-15,Rays,1,7,0,Marlins,0,7,0
+722,2019-05-15,Cardinals,0,3,1,Braves,4,6,0
+723,2019-05-15,Rangers,6,12,0,Royals,1,9,0
+724,2019-05-15,Padres,0,4,1,Dodgers,2,8,1
+725,2019-05-16,Mets,6,11,0,Nationals,7,12,0
+726,2019-05-16,Brewers,11,13,3,Phillies,3,4,1
+727,2019-05-16,Athletics,17,16,0,Tigers,3,7,1
+728,2019-05-16,Rangers,16,21,0,Royals,1,9,1
+729,2019-05-16,Orioles,7,10,0,Indians,14,14,0
+730,2019-05-16,Cubs,2,4,0,Reds,4,12,0
+731,2019-05-16,Cardinals,2,6,0,Braves,10,14,0
+732,2019-05-16,Blue Jays,2,2,1,White Sox,4,10,1
+733,2019-05-16,Pirates,3,8,0,Padres,4,5,3
+734,2019-05-16,Twins,11,16,1,Mariners,6,8,2
+735,2019-05-17,Cubs,14,18,0,Nationals,6,13,1
+736,2019-05-17,Rockies,4,5,0,Phillies,5,8,2
+737,2019-05-17,Rays,3,10,0,Yankees,4,9,1
+738,2019-05-17,Orioles,5,10,2,Indians,1,3,0
+739,2019-05-17,Astros,3,6,0,Red Sox,1,9,0
+740,2019-05-17,Dodgers,6,10,0,Reds,0,3,0
+741,2019-05-17,Athletics,7,9,0,Tigers,2,4,1
+742,2019-05-17,Mets,6,12,2,Marlins,8,10,0
+743,2019-05-17,Brewers,8,10,2,Braves,12,17,1
+744,2019-05-17,Cardinals,3,9,0,Rangers,7,11,1
+745,2019-05-17,Blue Jays,10,15,0,White Sox,2,6,1
+746,2019-05-17,Giants,0,9,1,D-backs,7,10,0
+747,2019-05-17,Royals,2,6,0,Angels,5,10,0
+748,2019-05-17,Pirates,5,9,1,Padres,3,7,1
+749,2019-05-17,Twins,7,10,0,Mariners,1,5,1
+750,2019-05-18,Rays,2,6,1,Yankees,1,8,1
+751,2019-05-18,Blue Jays,1,3,1,White Sox,4,7,0
+752,2019-05-18,Cardinals,8,10,0,Rangers,2,6,2
+753,2019-05-18,Rockies,1,9,2,Phillies,2,6,0
+754,2019-05-18,Orioles,1,1,0,Indians,4,7,1
+755,2019-05-18,Dodgers,0,6,1,Reds,4,7,0
+756,2019-05-18,Athletics,4,8,1,Tigers,1,5,0
+757,2019-05-18,Mets,0,1,0,Marlins,2,5,0
+758,2019-05-18,Astros,7,13,0,Red Sox,3,5,1
+759,2019-05-18,Cubs,2,4,1,Nationals,5,11,0
+760,2019-05-18,Brewers,3,8,1,Braves,4,8,0
+761,2019-05-18,Pirates,7,12,0,Padres,2,8,2
+762,2019-05-18,Royals,3,8,1,Angels,6,7,0
+763,2019-05-18,Giants,8,11,2,D-backs,5,6,0
+764,2019-05-18,Twins,18,19,2,Mariners,4,10,1
+765,2019-05-19,Astros,3,4,1,Red Sox,4,11,0
+766,2019-05-19,Rockies,5,7,1,Phillies,7,9,1
+767,2019-05-19,Rays,5,7,4,Yankees,13,10,0
+768,2019-05-19,Orioles,0,5,1,Indians,10,11,0
+769,2019-05-19,Dodgers,8,6,1,Reds,3,9,1
+770,2019-05-19,Athletics,7,12,1,Tigers,3,5,0
+771,2019-05-19,Mets,0,2,0,Marlins,3,6,1
+772,2019-05-19,Brewers,3,9,0,Braves,2,5,0
+773,2019-05-19,Blue Jays,5,8,0,White Sox,2,7,1
+774,2019-05-19,Cardinals,4,7,0,Rangers,5,9,1
+775,2019-05-19,Royals,5,9,0,Angels,1,6,1
+776,2019-05-19,Pirates,6,11,1,Padres,4,5,0
+777,2019-05-19,Giants,3,5,0,D-backs,2,3,0
+778,2019-05-19,Twins,4,7,0,Mariners,7,11,2
+779,2019-05-19,Cubs,6,9,1,Nationals,5,9,1
+780,2019-05-20,Red Sox,12,16,1,Blue Jays,2,3,1
+781,2019-05-20,Athletics,6,11,0,Indians,4,8,1
+782,2019-05-20,Yankees,10,11,2,Orioles,7,13,1
+783,2019-05-20,Nationals,3,7,2,Mets,5,8,0
+784,2019-05-20,Mariners,9,13,1,Rangers,10,15,0
+785,2019-05-20,Phillies,5,9,1,Cubs,4,11,0
+786,2019-05-20,White Sox,0,6,1,Astros,3,8,0
+787,2019-05-20,Braves,4,6,1,Giants,1,2,1
+788,2019-05-20,Twins,3,10,0,Angels,1,6,0
+789,2019-05-20,D-backs,1,5,0,Padres,2,6,0
+790,2019-05-21,Athletics,5,7,0,Indians,3,4,0
+791,2019-05-21,Rockies,5,10,1,Pirates,0,3,1
+792,2019-05-21,Phillies,2,6,0,Cubs,3,10,1
+793,2019-05-21,Yankees,11,12,1,Orioles,4,8,1
+794,2019-05-21,Red Sox,3,7,0,Blue Jays,10,11,1
+795,2019-05-21,Nationals,5,8,0,Mets,6,8,0
+796,2019-05-21,Dodgers,7,12,0,Rays,3,10,1
+797,2019-05-21,Marlins,5,10,1,Tigers,4,5,1
+798,2019-05-21,Reds,3,4,0,Brewers,0,6,0
+799,2019-05-21,Mariners,3,6,0,Rangers,5,8,0
+800,2019-05-21,White Sox,1,1,0,Astros,5,8,0
+801,2019-05-21,Braves,3,11,1,Giants,4,9,0
+802,2019-05-21,Twins,8,10,0,Angels,3,7,0
+803,2019-05-21,D-backs,2,5,0,Padres,3,4,0
+804,2019-05-22,Athletics,7,13,0,Indians,2,8,1
+805,2019-05-22,Reds,9,11,1,Brewers,11,12,0
+806,2019-05-22,Royals,8,8,1,Cardinals,2,4,1
+807,2019-05-22,Royals,3,8,0,Cardinals,10,12,0
+808,2019-05-22,Mariners,1,7,2,Rangers,2,8,0
+809,2019-05-22,D-backs,2,6,0,Padres,5,12,0
+810,2019-05-22,Rockies,9,16,0,Pirates,3,8,0
+811,2019-05-22,Yankees,7,13,1,Orioles,5,7,0
+812,2019-05-22,Red Sox,6,10,0,Blue Jays,5,11,0
+813,2019-05-22,Nationals,1,3,1,Mets,6,7,0
+814,2019-05-22,Dodgers,1,5,1,Rays,8,10,0
+815,2019-05-22,Marlins,6,11,1,Tigers,3,10,0
+816,2019-05-22,Phillies,4,13,0,Cubs,8,8,0
+817,2019-05-22,White Sox,9,10,1,Astros,4,12,1
+818,2019-05-22,Braves,9,7,0,Giants,2,6,1
+819,2019-05-23,Nationals,4,13,1,Mets,6,7,2
+820,2019-05-23,Rockies,6,11,1,Pirates,14,15,1
+821,2019-05-23,Yankees,6,8,1,Orioles,5,8,0
+822,2019-05-23,Red Sox,8,15,0,Blue Jays,2,5,1
+823,2019-05-23,Marlins,5,7,0,Tigers,2,11,2
+824,2019-05-23,Phillies,9,12,0,Cubs,7,11,1
+825,2019-05-23,Braves,5,11,0,Giants,4,7,0
+826,2019-05-23,Twins,16,17,1,Angels,7,10,0
+827,2019-05-23,Rays,7,14,0,Indians,2,4,0
+828,2019-05-23,White Sox,4,11,0,Astros,0,4,1
+829,2019-05-24,Reds,6,11,0,Cubs,5,8,1
+830,2019-05-24,Dodgers,10,13,0,Pirates,2,7,1
+831,2019-05-24,Marlins,10,15,1,Nationals,12,14,4
+832,2019-05-24,Padres,6,7,0,Blue Jays,3,3,1
+833,2019-05-24,Tigers,9,14,0,Mets,8,11,1
+834,2019-05-24,Rays,1,6,0,Indians,3,6,1
+835,2019-05-24,Red Sox,3,7,3,Astros,4,4,0
+836,2019-05-24,White Sox,4,9,1,Twins,11,12,1
+837,2019-05-24,Phillies,6,11,0,Brewers,4,8,0
+838,2019-05-24,Braves,5,12,1,Cardinals,2,7,1
+839,2019-05-24,Orioles,6,10,0,Rockies,8,14,0
+840,2019-05-24,Mariners,2,10,1,Athletics,6,8,0
+841,2019-05-24,Rangers,4,7,0,Angels,3,7,2
+842,2019-05-24,D-backs,18,21,0,Giants,2,7,1
+843,2019-05-25,White Sox,1,6,1,Twins,8,10,1
+844,2019-05-25,Yankees,7,10,1,Royals,3,6,0
+845,2019-05-25,Yankees,6,10,1,Royals,5,9,1
+846,2019-05-25,Reds,6,14,0,Cubs,8,11,0
+847,2019-05-25,Padres,19,20,1,Blue Jays,4,4,0
+848,2019-05-25,D-backs,10,13,1,Giants,4,8,2
+849,2019-05-25,Marlins,0,4,1,Nationals,5,7,0
+850,2019-05-25,Mariners,5,9,1,Athletics,6,11,0
+851,2019-05-25,Tigers,4,14,2,Mets,5,7,1
+852,2019-05-25,Rays,6,12,0,Indians,2,5,1
+853,2019-05-25,Phillies,7,12,0,Brewers,2,5,0
+854,2019-05-25,Red Sox,3,9,0,Astros,4,13,0
+855,2019-05-25,Dodgers,7,13,2,Pirates,2,11,0
+856,2019-05-25,Braves,3,7,0,Cardinals,6,9,0
+857,2019-05-25,Orioles,9,17,0,Rockies,6,10,0
+858,2019-05-25,Rangers,2,5,0,Angels,3,9,1
+859,2019-05-26,Padres,1,10,0,Blue Jays,10,17,0
+860,2019-05-26,Tigers,3,6,0,Mets,4,8,0
+861,2019-05-26,Rays,6,8,0,Indians,3,8,3
+862,2019-05-26,Dodgers,11,12,0,Pirates,7,12,1
+863,2019-05-26,Marlins,6,11,1,Nationals,9,15,0
+864,2019-05-26,Red Sox,4,6,0,Astros,1,4,2
+865,2019-05-26,White Sox,0,5,1,Twins,7,6,0
+866,2019-05-26,Phillies,1,1,0,Brewers,9,12,0
+867,2019-05-26,Yankees,7,11,1,Royals,8,14,1
+868,2019-05-26,Reds,10,17,1,Cubs,2,8,2
+869,2019-05-26,Orioles,7,11,3,Rockies,8,12,1
+870,2019-05-26,D-backs,6,10,0,Giants,2,10,2
+871,2019-05-26,Mariners,1,6,1,Athletics,7,7,0
+872,2019-05-26,Rangers,6,7,2,Angels,7,11,2
+873,2019-05-26,Braves,4,9,2,Cardinals,3,3,0
+874,2019-05-27,Tigers,3,8,2,Orioles,5,7,1
+875,2019-05-27,Marlins,3,9,0,Nationals,2,5,2
+876,2019-05-27,Padres,2,6,2,Yankees,5,7,0
+877,2019-05-27,Pirates,8,12,0,Reds,5,12,2
+878,2019-05-27,Pirates,1,8,0,Reds,8,10,0
+879,2019-05-27,Blue Jays,3,4,2,Rays,8,14,0
+880,2019-05-27,Cubs,5,9,0,Astros,6,10,0
+881,2019-05-27,Royals,1,7,0,White Sox,2,7,0
+882,2019-05-27,D-backs,3,9,0,Rockies,4,8,0
+883,2019-05-27,Indians,5,9,1,Red Sox,12,13,1
+884,2019-05-27,Angels,5,9,0,Athletics,8,10,0
+885,2019-05-27,Brewers,5,6,0,Twins,4,10,0
+886,2019-05-27,Mets,5,15,0,Dodgers,9,17,1
+887,2019-05-27,Rangers,2,6,1,Mariners,6,9,0
+888,2019-05-28,Royals,1,7,0,White Sox,2,7,0
+889,2019-05-28,Padres,5,10,0,Yankees,4,8,1
+890,2019-05-28,Pirates,6,8,0,Reds,11,11,0
+891,2019-05-28,Tigers,3,8,0,Orioles,0,6,1
+892,2019-05-28,Cardinals,3,4,0,Phillies,4,8,0
+893,2019-05-28,Indians,7,8,1,Red Sox,5,10,0
+894,2019-05-28,Blue Jays,1,6,0,Rays,3,6,0
+895,2019-05-28,Giants,3,6,2,Marlins,11,14,0
+896,2019-05-28,Nationals,5,11,0,Braves,4,8,0
+897,2019-05-28,Cubs,6,9,1,Astros,9,11,0
+898,2019-05-28,Royals,3,3,1,White Sox,4,12,0
+899,2019-05-28,Brewers,3,8,1,Twins,5,10,0
+900,2019-05-28,D-backs,2,9,0,Rockies,6,8,1
+901,2019-05-28,Angels,6,7,0,Athletics,4,7,0
+902,2019-05-28,Mets,7,10,0,Dodgers,3,8,1
+903,2019-05-28,Rangers,11,11,0,Mariners,4,12,1
+904,2019-05-29,Pirates,7,15,0,Reds,2,7,0
+905,2019-05-29,Padres,0,4,1,Yankees,7,10,1
+906,2019-05-29,Angels,12,16,0,Athletics,7,12,2
+907,2019-05-29,Rangers,8,13,0,Mariners,7,11,3
+908,2019-05-29,Indians,14,18,1,Red Sox,9,14,0
+909,2019-05-29,Tigers,4,6,1,Orioles,2,5,0
+910,2019-05-29,Cardinals,4,8,1,Phillies,11,12,1
+911,2019-05-29,Blue Jays,3,12,0,Rays,4,14,0
+912,2019-05-29,Giants,2,6,0,Marlins,4,11,1
+913,2019-05-29,Nationals,14,15,0,Braves,4,6,0
+914,2019-05-29,Cubs,2,7,0,Astros,1,4,0
+915,2019-05-29,Royals,7,15,0,White Sox,8,10,0
+916,2019-05-29,D-backs,4,11,1,Rockies,5,10,0
+917,2019-05-29,Mets,8,13,0,Dodgers,9,15,1
+918,2019-05-30,Cardinals,5,10,0,Phillies,3,7,0
+919,2019-05-30,Giants,3,6,0,Marlins,1,7,0
+920,2019-05-30,D-backs,10,16,0,Rockies,11,18,1
+921,2019-05-30,Brewers,11,18,0,Pirates,5,10,0
+922,2019-05-30,Twins,3,7,1,Rays,14,16,1
+923,2019-05-30,Royals,4,10,0,Rangers,2,5,0
+924,2019-05-30,Indians,4,6,2,White Sox,10,15,1
+925,2019-05-30,Mets,0,4,0,Dodgers,2,9,0
+926,2019-05-30,Angels,9,15,1,Mariners,3,4,1
+927,2019-05-31,Giants,6,9,2,Orioles,9,9,1
+928,2019-05-31,Red Sox,1,5,0,Yankees,4,8,0
+929,2019-05-31,Brewers,4,6,3,Pirates,9,13,0
+930,2019-05-31,Nationals,3,7,1,Reds,9,15,0
+931,2019-05-31,Twins,5,10,0,Rays,3,4,1
+932,2019-05-31,Tigers,8,11,1,Braves,2,7,2
+933,2019-05-31,Royals,2,7,0,Rangers,6,6,0
+934,2019-05-31,Indians,1,9,4,White Sox,6,10,0
+935,2019-05-31,Cubs,1,6,0,Cardinals,2,5,0
+936,2019-05-31,Blue Jays,6,11,0,Rockies,13,17,0
+937,2019-05-31,Mets,5,13,0,D-backs,4,8,0
+938,2019-05-31,Astros,3,8,0,Athletics,2,6,1
+939,2019-05-31,Angels,3,6,0,Mariners,4,5,0
+940,2019-05-31,Phillies,3,5,0,Dodgers,6,12,0
+941,2019-05-31,Marlins,2,4,2,Padres,5,9,1
+942,2019-06-01,Twins,6,13,1,Rays,2,9,1
+943,2019-06-01,Indians,5,7,1,White Sox,2,4,2
+944,2019-06-01,Giants,8,8,0,Orioles,2,6,0
+945,2019-06-01,Royals,2,8,1,Rangers,6,11,0
+946,2019-06-01,Brewers,12,14,0,Pirates,10,18,0
+947,2019-06-01,Nationals,5,8,2,Reds,2,8,0
+948,2019-06-01,Tigers,5,11,2,Braves,10,11,2
+949,2019-06-01,Angels,6,11,0,Mariners,3,7,2
+950,2019-06-01,Cubs,4,7,0,Cardinals,7,12,0
+951,2019-06-01,Red Sox,3,11,0,Yankees,5,11,0
+952,2019-06-01,Blue Jays,2,4,2,Rockies,4,8,1
+953,2019-06-01,Astros,5,8,0,Athletics,1,5,0
+954,2019-06-01,Mets,5,9,2,D-backs,6,11,0
+955,2019-06-01,Phillies,3,7,1,Dodgers,4,8,1
+956,2019-06-01,Marlins,9,11,0,Padres,3,4,1
+957,2019-06-02,Giants,8,11,0,Orioles,1,4,1
+958,2019-06-02,Nationals,4,9,0,Reds,1,3,1
+959,2019-06-02,Twins,9,12,1,Rays,7,9,2
+960,2019-06-02,Tigers,4,9,3,Braves,7,7,1
+961,2019-06-02,Brewers,4,9,1,Pirates,2,8,0
+962,2019-06-02,Indians,0,6,0,White Sox,2,5,0
+963,2019-06-02,Cubs,1,3,1,Cardinals,2,4,0
+964,2019-06-02,Royals,1,10,0,Rangers,5,11,0
+965,2019-06-02,Blue Jays,1,6,0,Rockies,5,9,1
+966,2019-06-02,Astros,6,11,0,Athletics,4,10,2
+967,2019-06-02,Mets,1,6,1,D-backs,7,10,0
+968,2019-06-02,Angels,13,15,0,Mariners,3,5,3
+969,2019-06-02,Phillies,0,3,1,Dodgers,8,10,0
+970,2019-06-02,Marlins,9,13,0,Padres,3,4,0
+971,2019-06-02,Red Sox,8,13,1,Yankees,5,8,1
+972,2019-06-03,Angels,1,4,0,Cubs,8,11,1
+973,2019-06-03,Dodgers,3,7,0,D-backs,1,3,0
+974,2019-06-03,Astros,4,5,0,Mariners,2,7,0
+975,2019-06-03,Phillies,2,6,0,Padres,8,9,0
+976,2019-06-04,Braves,12,13,0,Pirates,5,10,3
+977,2019-06-04,White Sox,5,8,0,Nationals,9,9,1
+978,2019-06-04,Yankees,3,8,0,Blue Jays,4,8,0
+979,2019-06-04,Giants,9,14,0,Mets,3,10,2
+980,2019-06-04,Rays,6,9,2,Tigers,9,12,0
+981,2019-06-04,Twins,2,5,0,Indians,5,6,1
+982,2019-06-04,Marlins,16,19,0,Brewers,0,6,2
+983,2019-06-04,Rockies,3,6,0,Cubs,6,8,0
+984,2019-06-04,Orioles,12,15,4,Rangers,11,14,0
+985,2019-06-04,Red Sox,8,10,1,Royals,3,7,0
+986,2019-06-04,Reds,4,10,0,Cardinals,1,6,2
+987,2019-06-04,Dodgers,9,12,3,D-backs,0,3,2
+988,2019-06-04,Athletics,4,8,0,Angels,2,4,0
+989,2019-06-04,Astros,11,13,0,Mariners,5,5,0
+990,2019-06-04,Phillies,9,13,0,Padres,6,10,1
+991,2019-06-05,White Sox,4,11,3,Nationals,6,9,0
+992,2019-06-05,Dodgers,2,7,0,D-backs,3,5,0
+993,2019-06-05,Phillies,7,11,0,Padres,5,8,0
+994,2019-06-05,Braves,4,6,1,Pirates,7,14,0
+995,2019-06-05,Yankees,7,9,3,Blue Jays,11,10,0
+996,2019-06-05,Giants,0,5,1,Mets,7,8,0
+997,2019-06-05,Rays,4,7,0,Tigers,0,5,4
+998,2019-06-05,Twins,7,7,1,Indians,9,11,0
+999,2019-06-05,Marlins,8,10,0,Brewers,3,8,2
+1000,2019-06-05,Rockies,8,11,0,Cubs,9,10,1
+1001,2019-06-05,Orioles,1,8,0,Rangers,2,9,1
+1002,2019-06-05,Red Sox,8,11,0,Royals,0,3,1
+1003,2019-06-05,Athletics,9,15,0,Angels,10,14,0
+1004,2019-06-05,Astros,1,6,1,Mariners,14,13,0
+1005,2019-06-06,Giants,3,3,0,Mets,7,13,0
+1006,2019-06-06,Braves,1,7,1,Pirates,6,9,1
+1007,2019-06-06,Rays,6,14,0,Tigers,1,8,0
+1008,2019-06-06,Red Sox,7,9,0,Royals,5,14,0
+1009,2019-06-06,Reds,1,5,0,Cardinals,3,9,0
+1010,2019-06-06,Marlins,1,5,1,Brewers,5,9,0
+1011,2019-06-06,Rockies,3,6,0,Cubs,1,5,0
+1012,2019-06-06,Astros,8,14,0,Mariners,7,11,0
+1013,2019-06-06,Yankees,6,8,1,Blue Jays,2,8,1
+1014,2019-06-06,Twins,5,7,2,Indians,4,4,1
+1015,2019-06-06,Orioles,3,8,1,Rangers,4,8,0
+1016,2019-06-06,Athletics,7,9,0,Angels,4,9,3
+1017,2019-06-06,Nationals,4,4,1,Padres,5,6,1
+1018,2019-06-07,Cardinals,1,4,0,Cubs,3,6,0
+1019,2019-06-07,Reds,2,6,2,Phillies,4,6,1
+1020,2019-06-07,D-backs,8,10,1,Blue Jays,2,5,0
+1021,2019-06-07,Rockies,5,10,1,Mets,1,6,1
+1022,2019-06-07,Rays,5,10,0,Red Sox,1,4,0
+1023,2019-06-07,Twins,6,14,0,Tigers,3,11,0
+1024,2019-06-07,Braves,7,14,0,Marlins,1,5,0
+1025,2019-06-07,Yankees,2,6,0,Indians,5,7,0
+1026,2019-06-07,Athletics,5,10,2,Rangers,3,10,1
+1027,2019-06-07,Orioles,3,5,2,Astros,4,6,1
+1028,2019-06-07,Pirates,4,7,0,Brewers,10,15,0
+1029,2019-06-07,White Sox,4,10,0,Royals,6,10,0
+1030,2019-06-07,Mariners,6,8,0,Angels,2,4,0
+1031,2019-06-07,Nationals,4,10,0,Padres,5,8,0
+1032,2019-06-07,Dodgers,1,6,0,Giants,2,7,0
+1033,2019-06-08,Rays,9,13,2,Red Sox,2,6,1
+1034,2019-06-08,Rays,1,6,0,Red Sox,5,6,2
+1035,2019-06-08,Athletics,5,9,1,Rangers,10,11,0
+1036,2019-06-08,Athletics,1,4,1,Rangers,3,5,1
+1037,2019-06-08,White Sox,2,5,1,Royals,0,3,0
+1038,2019-06-08,D-backs,6,10,0,Blue Jays,0,5,0
+1039,2019-06-08,Reds,1,6,1,Phillies,4,6,0
+1040,2019-06-08,Orioles,4,8,0,Astros,1,4,1
+1041,2019-06-08,Twins,3,6,0,Tigers,9,15,0
+1042,2019-06-08,Braves,1,3,1,Marlins,0,4,0
+1043,2019-06-08,Yankees,4,5,0,Indians,8,12,1
+1044,2019-06-08,Pirates,3,8,0,Brewers,5,10,1
+1045,2019-06-08,Rockies,3,7,0,Mets,5,9,1
+1046,2019-06-08,Dodgers,7,11,0,Giants,2,8,1
+1047,2019-06-08,Cardinals,4,5,0,Cubs,9,10,1
+1048,2019-06-08,Mariners,3,7,2,Angels,12,16,1
+1049,2019-06-08,Nationals,4,7,0,Padres,1,7,0
+1050,2019-06-09,Rays,6,14,1,Red Sox,1,8,0
+1051,2019-06-09,Reds,4,9,0,Phillies,3,5,0
+1052,2019-06-09,D-backs,8,10,0,Blue Jays,2,7,0
+1053,2019-06-09,Rockies,1,2,0,Mets,6,8,0
+1054,2019-06-09,Twins,12,17,0,Tigers,2,9,0
+1055,2019-06-09,Braves,7,10,0,Marlins,6,14,0
+1056,2019-06-09,Yankees,7,11,2,Indians,6,7,0
+1057,2019-06-09,Orioles,0,6,2,Astros,4,5,0
+1058,2019-06-09,Pirates,2,5,1,Brewers,5,9,0
+1059,2019-06-09,White Sox,5,12,0,Royals,2,6,2
+1060,2019-06-09,Athletics,9,11,2,Rangers,8,15,2
+1061,2019-06-09,Dodgers,1,6,0,Giants,0,5,0
+1062,2019-06-09,Mariners,9,13,0,Angels,3,7,1
+1063,2019-06-09,Nationals,5,8,1,Padres,2,7,1
+1064,2019-06-09,Cardinals,1,9,2,Cubs,5,9,1
+1065,2019-06-10,D-backs,13,14,0,Phillies,8,13,0
+1066,2019-06-10,Athletics,2,4,0,Rays,6,8,0
+1067,2019-06-10,Rangers,4,8,0,Red Sox,3,9,1
+1068,2019-06-10,Cardinals,4,4,1,Marlins,1,7,1
+1069,2019-06-10,Pirates,7,10,0,Braves,13,13,3
+1070,2019-06-10,Nationals,12,16,0,White Sox,1,4,1
+1071,2019-06-10,Cubs,5,7,0,Rockies,6,10,1
+1072,2019-06-10,Dodgers,3,8,3,Angels,5,9,0
+1073,2019-06-11,Mets,5,9,2,Yankees,12,15,3
+1074,2019-06-11,Mets,10,11,0,Yankees,4,9,1
+1075,2019-06-11,Blue Jays,2,5,0,Orioles,4,11,1
+1076,2019-06-11,D-backs,4,8,1,Phillies,7,12,0
+1077,2019-06-11,Reds,1,7,0,Indians,2,6,0
+1078,2019-06-11,Athletics,4,7,0,Rays,3,4,1
+1079,2019-06-11,Rangers,9,9,0,Red Sox,5,9,2
+1080,2019-06-11,Cardinals,7,13,1,Marlins,1,5,1
+1081,2019-06-11,Pirates,5,9,1,Braves,7,10,0
+1082,2019-06-11,Mariners,5,10,0,Twins,6,9,0
+1083,2019-06-11,Nationals,5,9,0,White Sox,7,7,0
+1084,2019-06-11,Brewers,8,11,1,Astros,10,12,0
+1085,2019-06-11,Tigers,2,5,0,Royals,3,9,0
+1086,2019-06-11,Cubs,3,6,1,Rockies,10,13,0
+1087,2019-06-11,Padres,5,7,1,Giants,6,9,0
+1088,2019-06-11,Dodgers,3,12,0,Angels,5,6,0
+1089,2019-06-12,Athletics,6,9,0,Rays,2,12,0
+1090,2019-06-12,Reds,7,9,1,Indians,2,6,1
+1091,2019-06-12,Cubs,10,12,0,Rockies,1,7,1
+1092,2019-06-12,Rangers,3,5,0,Red Sox,4,10,1
+1093,2019-06-12,Blue Jays,8,10,0,Orioles,6,8,1
+1094,2019-06-12,D-backs,2,6,0,Phillies,0,3,0
+1095,2019-06-12,Cardinals,0,3,1,Marlins,9,12,0
+1096,2019-06-12,Pirates,7,13,1,Braves,8,15,0
+1097,2019-06-12,Mariners,9,13,1,Twins,6,11,5
+1098,2019-06-12,Brewers,6,10,0,Astros,3,5,0
+1099,2019-06-12,Tigers,3,5,0,Royals,2,8,0
+1100,2019-06-12,Padres,2,6,3,Giants,4,8,0
+1101,2019-06-13,Pirates,5,9,0,Braves,6,10,1
+1102,2019-06-13,Mariners,5,7,2,Twins,10,14,0
+1103,2019-06-13,D-backs,5,7,0,Nationals,0,3,0
+1104,2019-06-13,Blue Jays,12,17,2,Orioles,3,10,0
+1105,2019-06-13,Cardinals,5,10,0,Mets,4,6,0
+1106,2019-06-13,Angels,5,6,0,Rays,3,10,0
+1107,2019-06-13,Rangers,6,9,1,Red Sox,7,9,1
+1108,2019-06-13,Tigers,3,7,1,Royals,7,10,1
+1109,2019-06-13,Yankees,4,9,0,White Sox,5,7,1
+1110,2019-06-13,Padres,6,13,1,Rockies,9,13,1
+1111,2019-06-13,Cubs,3,8,0,Dodgers,7,11,0
+1112,2019-06-14,Cardinals,5,10,0,Mets,4,6,0
+1113,2019-06-14,Red Sox,13,16,0,Orioles,2,9,0
+1114,2019-06-14,D-backs,3,6,1,Nationals,7,8,1
+1115,2019-06-14,Indians,13,17,1,Tigers,4,7,2
+1116,2019-06-14,Cardinals,9,8,1,Mets,5,9,2
+1117,2019-06-14,Angels,4,8,1,Rays,9,13,1
+1118,2019-06-14,Rangers,7,8,0,Reds,1,5,0
+1119,2019-06-14,Pirates,11,18,1,Marlins,0,9,2
+1120,2019-06-14,Phillies,8,9,0,Braves,9,14,2
+1121,2019-06-14,Blue Jays,2,5,0,Astros,15,12,0
+1122,2019-06-14,Royals,0,2,1,Twins,2,4,0
+1123,2019-06-14,Yankees,2,7,3,White Sox,10,15,0
+1124,2019-06-14,Padres,16,21,1,Rockies,12,18,0
+1125,2019-06-14,Mariners,9,10,1,Athletics,2,7,1
+1126,2019-06-14,Cubs,3,8,0,Dodgers,5,7,1
+1127,2019-06-14,Brewers,3,8,1,Giants,5,10,1
+1128,2019-06-15,Angels,5,7,0,Rays,3,6,1
+1129,2019-06-15,Red Sox,7,12,0,Orioles,2,8,2
+1130,2019-06-15,D-backs,10,15,0,Nationals,3,10,1
+1131,2019-06-15,Brewers,7,8,1,Giants,8,15,1
+1132,2019-06-15,Blue Jays,2,6,1,Astros,7,12,0
+1133,2019-06-15,Indians,4,9,0,Tigers,2,6,1
+1134,2019-06-15,Pirates,3,8,1,Marlins,4,10,0
+1135,2019-06-15,Cardinals,7,12,1,Mets,8,10,1
+1136,2019-06-15,Rangers,4,8,0,Reds,3,4,3
+1137,2019-06-15,Royals,4,8,1,Twins,5,7,3
+1138,2019-06-15,Yankees,8,10,1,White Sox,4,10,0
+1139,2019-06-15,Phillies,6,8,1,Braves,5,8,2
+1140,2019-06-15,Padres,8,13,0,Rockies,14,19,2
+1141,2019-06-15,Mariners,2,6,3,Athletics,11,14,0
+1142,2019-06-15,Cubs,2,4,0,Dodgers,1,5,1
+1143,2019-06-16,Red Sox,8,14,2,Orioles,6,12,2
+1144,2019-06-16,Indians,8,14,0,Tigers,0,4,0
+1145,2019-06-16,Cardinals,4,3,0,Mets,3,10,2
+1146,2019-06-16,Angels,5,11,0,Rays,6,9,1
+1147,2019-06-16,Rangers,3,6,0,Reds,11,14,0
+1148,2019-06-16,Pirates,5,11,0,Marlins,4,9,0
+1149,2019-06-16,Phillies,1,6,1,Braves,15,19,1
+1150,2019-06-16,D-backs,5,11,0,Nationals,15,15,1
+1151,2019-06-16,Blue Jays,12,14,0,Astros,0,7,0
+1152,2019-06-16,Royals,8,9,0,Twins,6,15,2
+1153,2019-06-16,Yankees,10,12,0,White Sox,3,9,0
+1154,2019-06-16,Padres,14,15,1,Rockies,13,19,1
+1155,2019-06-16,Brewers,5,12,0,Giants,3,7,0
+1156,2019-06-16,Mariners,6,8,2,Athletics,3,8,2
+1157,2019-06-16,Cubs,2,9,0,Dodgers,3,7,1
+1158,2019-06-17,Rays,0,2,1,Yankees,3,8,0
+1159,2019-06-17,Angels,10,13,1,Blue Jays,5,8,0
+1160,2019-06-17,Astros,2,4,0,Reds,3,6,1
+1161,2019-06-17,Mets,3,7,1,Braves,12,16,0
+1162,2019-06-17,Indians,2,8,0,Rangers,7,8,0
+1163,2019-06-17,Red Sox,2,7,0,Twins,0,5,0
+1164,2019-06-17,Marlins,0,8,1,Cardinals,5,8,0
+1165,2019-06-17,Orioles,2,4,1,Athletics,3,5,1
+1166,2019-06-17,Royals,6,9,0,Mariners,4,10,0
+1167,2019-06-17,Giants,3,3,0,Dodgers,2,5,1
+1168,2019-06-17,Brewers,0,4,0,Padres,2,7,0
+1169,2019-06-18,Tigers,5,6,1,Pirates,4,8,3
+1170,2019-06-18,Rays,3,9,0,Yankees,6,11,0
+1171,2019-06-18,Angels,3,6,1,Blue Jays,1,3,0
+1172,2019-06-18,Astros,3,9,0,Reds,4,6,0
+1173,2019-06-18,Mets,10,15,0,Braves,2,5,0
+1174,2019-06-18,Indians,10,14,0,Rangers,3,5,1
+1175,2019-06-18,White Sox,3,8,0,Cubs,1,6,1
+1176,2019-06-18,Red Sox,3,17,0,Twins,4,15,1
+1177,2019-06-18,Marlins,6,8,1,Cardinals,0,2,1
+1178,2019-06-18,Rockies,8,12,1,D-backs,1,7,1
+1179,2019-06-18,Orioles,2,4,1,Athletics,16,15,1
+1180,2019-06-18,Royals,9,13,1,Mariners,0,6,0
+1181,2019-06-18,Giants,0,4,0,Dodgers,9,14,0
+1182,2019-06-18,Brewers,1,4,3,Padres,4,8,0
+1183,2019-06-19,Astros,2,7,1,Reds,3,11,0
+1184,2019-06-19,Phillies,2,6,1,Nationals,6,8,0
+1185,2019-06-19,Phillies,0,4,1,Nationals,2,4,0
+1186,2019-06-19,Rays,1,3,0,Yankees,12,9,1
+1187,2019-06-19,Orioles,3,6,1,Athletics,8,11,0
+1188,2019-06-19,Brewers,7,9,0,Padres,8,13,1
+1189,2019-06-19,Royals,2,8,0,Mariners,8,10,0
+1190,2019-06-19,Tigers,7,11,0,Pirates,8,11,1
+1191,2019-06-19,Angels,11,16,0,Blue Jays,6,6,2
+1192,2019-06-19,Mets,2,9,0,Braves,7,9,0
+1193,2019-06-19,Indians,10,12,2,Rangers,4,10,1
+1194,2019-06-19,White Sox,3,9,0,Cubs,7,11,0
+1195,2019-06-19,Red Sox,9,12,0,Twins,4,9,0
+1196,2019-06-19,Marlins,1,5,0,Cardinals,2,6,0
+1197,2019-06-19,Rockies,6,14,2,D-backs,4,10,0
+1198,2019-06-19,Giants,2,4,0,Dodgers,9,13,0
+1199,2019-06-20,Indians,2,5,1,Rangers,4,8,0
+1200,2019-06-20,Rockies,6,7,1,D-backs,4,10,0
+1201,2019-06-20,Phillies,4,9,0,Nationals,7,10,0
+1202,2019-06-20,Astros,6,12,0,Yankees,10,12,0
+1203,2019-06-20,Angels,5,12,0,Blue Jays,7,12,1
+1204,2019-06-20,Marlins,7,11,0,Cardinals,6,16,1
+1205,2019-06-20,Mets,4,7,0,Cubs,7,7,1
+1206,2019-06-20,Reds,7,10,1,Brewers,1,5,1
+1207,2019-06-20,Twins,1,5,3,Royals,4,10,0
+1208,2019-06-20,Rays,4,6,1,Athletics,5,7,0
+1209,2019-06-20,Orioles,2,4,0,Mariners,5,9,1
+1210,2019-06-20,Giants,8,9,0,Dodgers,9,16,1
+1211,2019-06-21,Mets,5,7,2,Cubs,4,6,1
+1212,2019-06-21,Padres,1,7,2,Pirates,2,6,2
+1213,2019-06-21,Braves,3,8,1,Nationals,4,8,0
+1214,2019-06-21,Marlins,2,6,0,Phillies,1,9,2
+1215,2019-06-21,Astros,1,7,1,Yankees,4,8,0
+1216,2019-06-21,Tigers,6,12,0,Indians,7,12,0
+1217,2019-06-21,Blue Jays,5,11,0,Red Sox,7,14,2
+1218,2019-06-21,White Sox,5,12,1,Rangers,4,8,0
+1219,2019-06-21,Reds,11,10,0,Brewers,7,10,0
+1220,2019-06-21,Angels,1,8,0,Cardinals,5,8,0
+1221,2019-06-21,Twins,8,13,2,Royals,7,7,1
+1222,2019-06-21,Giants,11,11,1,D-backs,5,10,0
+1223,2019-06-21,Rays,5,10,2,Athletics,3,10,1
+1224,2019-06-21,Rockies,2,3,1,Dodgers,4,6,0
+1225,2019-06-21,Orioles,9,14,1,Mariners,10,13,1
+1226,2019-06-22,Angels,2,6,2,Cardinals,4,5,0
+1227,2019-06-22,Twins,5,9,0,Royals,3,7,0
+1228,2019-06-22,Mets,10,12,1,Cubs,2,6,1
+1229,2019-06-22,Padres,3,6,0,Pirates,6,10,0
+1230,2019-06-22,Blue Jays,8,10,0,Red Sox,7,9,2
+1231,2019-06-22,Marlins,5,7,0,Phillies,3,7,0
+1232,2019-06-22,Rays,2,6,0,Athletics,4,8,1
+1233,2019-06-22,Tigers,0,6,0,Indians,2,6,0
+1234,2019-06-22,Orioles,8,8,1,Mariners,4,7,0
+1235,2019-06-22,Reds,5,6,2,Brewers,6,5,0
+1236,2019-06-22,Rockies,4,8,1,Dodgers,5,14,1
+1237,2019-06-22,Braves,13,14,0,Nationals,9,11,1
+1238,2019-06-22,Astros,5,11,2,Yankees,7,7,0
+1239,2019-06-22,White Sox,5,7,1,Rangers,6,14,1
+1240,2019-06-22,Giants,7,10,1,D-backs,4,8,0
+1241,2019-06-23,Blue Jays,6,10,1,Red Sox,1,7,0
+1242,2019-06-23,Marlins,6,16,0,Phillies,4,4,1
+1243,2019-06-23,Tigers,3,8,1,Indians,8,10,0
+1244,2019-06-23,Padres,10,13,1,Pirates,11,17,0
+1245,2019-06-23,Braves,4,7,1,Nationals,3,10,0
+1246,2019-06-23,Astros,9,14,0,Yankees,4,6,0
+1247,2019-06-23,Reds,5,10,0,Brewers,7,11,0
+1248,2019-06-23,Twins,1,9,0,Royals,6,11,0
+1249,2019-06-23,Mets,3,7,0,Cubs,5,12,0
+1250,2019-06-23,White Sox,4,10,1,Rangers,7,11,1
+1251,2019-06-23,Rays,8,15,1,Athletics,2,6,0
+1252,2019-06-23,Rockies,3,10,1,Dodgers,6,7,0
+1253,2019-06-23,Orioles,3,7,2,Mariners,13,13,1
+1254,2019-06-23,Giants,2,4,0,D-backs,3,7,0
+1255,2019-06-23,Angels,6,15,0,Cardinals,4,10,0
+1256,2019-06-24,Mets,7,15,1,Phillies,13,19,0
+1257,2019-06-24,Blue Jays,8,14,0,Yankees,10,13,2
+1258,2019-06-24,Royals,2,5,0,Indians,3,10,0
+1259,2019-06-24,White Sox,5,8,0,Red Sox,6,12,0
+1260,2019-06-24,Braves,3,8,0,Cubs,8,10,1
+1261,2019-06-24,Dodgers,5,10,0,D-backs,8,11,1
+1262,2019-06-24,Rockies,2,5,0,Giants,0,6,1
+1263,2019-06-25,Padres,8,12,2,Orioles,3,11,0
+1264,2019-06-25,Mets,5,12,1,Phillies,7,8,2
+1265,2019-06-25,Blue Jays,3,7,0,Yankees,4,10,0
+1266,2019-06-25,Royals,8,13,0,Indians,6,11,1
+1267,2019-06-25,Rangers,5,12,1,Tigers,3,6,3
+1268,2019-06-25,White Sox,3,10,1,Red Sox,6,10,1
+1269,2019-06-25,Nationals,6,8,0,Marlins,1,5,0
+1270,2019-06-25,Braves,3,3,0,Cubs,2,4,1
+1271,2019-06-25,Pirates,1,8,0,Astros,5,10,0
+1272,2019-06-25,Rays,4,7,0,Twins,9,15,0
+1273,2019-06-25,Mariners,8,12,2,Brewers,3,8,2
+1274,2019-06-25,Athletics,7,10,0,Cardinals,3,10,0
+1275,2019-06-25,Dodgers,3,5,2,D-backs,2,6,0
+1276,2019-06-25,Rockies,2,3,1,Giants,4,8,0
+1277,2019-06-25,Reds,1,7,0,Angels,5,8,0
+1278,2019-06-26,White Sox,8,12,1,Red Sox,7,15,0
+1279,2019-06-26,Blue Jays,7,13,0,Yankees,8,16,2
+1280,2019-06-26,Royals,3,8,1,Indians,5,10,0
+1281,2019-06-26,Padres,10,11,1,Orioles,5,8,1
+1282,2019-06-26,Dodgers,2,5,3,D-backs,8,9,1
+1283,2019-06-26,Rockies,6,7,1,Giants,3,8,1
+1284,2019-06-26,Mets,4,10,0,Phillies,5,9,1
+1285,2019-06-26,Rangers,4,8,0,Tigers,1,5,0
+1286,2019-06-26,Nationals,7,7,0,Marlins,5,6,0
+1287,2019-06-26,Athletics,2,8,0,Cardinals,0,5,0
+1288,2019-06-26,Braves,5,7,0,Cubs,3,10,2
+1289,2019-06-26,Reds,1,5,2,Angels,5,7,2
+1290,2019-06-26,Pirates,14,15,0,Astros,2,9,1
+1291,2019-06-26,Rays,4,6,2,Twins,6,10,0
+1292,2019-06-26,Mariners,4,8,0,Brewers,2,5,1
+1293,2019-06-27,Mets,3,5,1,Phillies,6,6,1
+1294,2019-06-27,Rangers,3,5,0,Tigers,1,9,0
+1295,2019-06-27,Rays,5,8,1,Twins,2,9,0
+1296,2019-06-27,Pirates,10,14,0,Astros,0,9,1
+1297,2019-06-27,Mariners,2,5,0,Brewers,4,9,2
+1298,2019-06-27,Braves,7,8,1,Cubs,9,10,0
+1299,2019-06-27,Nationals,8,10,0,Marlins,5,8,1
+1300,2019-06-27,Dodgers,12,17,1,Rockies,8,16,1
+1301,2019-06-27,D-backs,5,8,0,Giants,1,3,0
+1302,2019-06-27,Athletics,3,5,0,Angels,8,12,0
+1303,2019-06-29,Yankees,17,19,0,Red Sox,13,18,0
+1304,2019-06-29,Indians,0,5,0,Orioles,13,13,0
+1305,2019-06-29,Royals,5,7,0,Blue Jays,7,6,1
+1306,2019-06-29,Cubs,6,8,0,Reds,0,7,2
+1307,2019-06-29,Nationals,5,9,0,Tigers,7,12,1
+1308,2019-06-29,Rangers,2,5,0,Rays,5,7,0
+1309,2019-06-29,Braves,5,13,1,Mets,4,8,0
+1310,2019-06-29,Phillies,6,7,1,Marlins,9,15,1
+1311,2019-06-29,Twins,10,13,1,White Sox,3,7,1
+1312,2019-06-29,Dodgers,3,8,1,Rockies,5,7,1
+1313,2019-06-29,Mariners,5,7,1,Astros,6,8,0
+1314,2019-06-29,Pirates,1,6,1,Brewers,3,5,0
+1315,2019-06-29,D-backs,4,11,1,Giants,3,7,2
+1316,2019-06-29,Athletics,4,8,0,Angels,0,3,2
+1317,2019-06-29,Cardinals,2,5,1,Padres,12,12,2
+1318,2019-06-30,Yankees,12,13,1,Red Sox,8,15,2
+1319,2019-06-30,Indians,2,10,0,Orioles,0,5,0
+1320,2019-06-30,Royals,7,11,1,Blue Jays,6,8,0
+1321,2019-06-30,Cubs,6,11,1,Reds,8,9,0
+1322,2019-06-30,Nationals,2,7,0,Tigers,1,5,0
+1323,2019-06-30,Rangers,2,4,1,Rays,6,9,0
+1324,2019-06-30,Phillies,13,17,0,Marlins,6,10,1
+1325,2019-06-30,Mariners,1,6,2,Astros,6,11,0
+1326,2019-06-30,Twins,3,6,0,White Sox,4,10,2
+1327,2019-06-30,Pirates,1,7,3,Brewers,2,8,0
+1328,2019-06-30,Dodgers,10,14,1,Rockies,5,9,1
+1329,2019-06-30,D-backs,4,8,1,Giants,10,13,0
+1330,2019-06-30,Athletics,12,11,1,Angels,3,9,2
+1331,2019-06-30,Cardinals,5,9,0,Padres,3,10,2
+1332,2019-06-30,Braves,5,10,2,Mets,8,13,0
+1333,2019-07-01,Royals,4,9,0,Blue Jays,11,18,0
+1334,2019-07-01,Cubs,5,13,2,Pirates,18,23,0
+1335,2019-07-01,Orioles,3,9,0,Rays,6,10,1
+1336,2019-07-01,Brewers,8,9,0,Reds,6,10,1
+1337,2019-07-01,Giants,13,14,2,Padres,2,5,1
+1338,2019-07-03,Tigers,5,6,0,White Sox,7,12,0
+1339,2019-07-03,Tigers,6,12,0,White Sox,9,10,1
+1340,2019-07-03,Marlins,1,6,1,Nationals,3,7,0
+1341,2019-07-03,Cubs,5,9,0,Pirates,6,11,1
+1342,2019-07-03,Red Sox,3,8,0,Blue Jays,6,11,0
+1343,2019-07-03,Orioles,9,11,2,Rays,6,11,1
+1344,2019-07-03,Yankees,5,10,0,Mets,1,7,1
+1345,2019-07-03,Brewers,0,4,0,Reds,3,8,1
+1346,2019-07-03,Phillies,2,6,1,Braves,9,10,0
+1347,2019-07-03,Angels,6,12,1,Rangers,2,4,0
+1348,2019-07-03,Astros,4,6,0,Rockies,2,7,0
+1349,2019-07-03,Indians,4,8,0,Royals,0,5,0
+1350,2019-07-03,Twins,4,10,2,Athletics,3,9,2
+1351,2019-07-03,Giants,7,9,0,Padres,5,11,0
+1352,2019-07-03,D-backs,4,10,0,Dodgers,5,10,0
+1353,2019-07-03,Cardinals,5,9,0,Mariners,2,5,1
+1354,2019-07-04,Marlins,2,10,1,Nationals,5,8,1
+1355,2019-07-04,Indians,8,12,2,Royals,4,6,1
+1356,2019-07-04,Tigers,11,15,0,White Sox,5,13,2
+1357,2019-07-04,Brewers,0,2,0,Reds,1,8,0
+1358,2019-07-04,Cubs,11,15,1,Pirates,3,6,0
+1359,2019-07-04,Twins,2,11,0,Athletics,7,12,0
+1360,2019-07-04,Cardinals,5,10,0,Mariners,4,10,0
+1361,2019-07-04,Yankees,8,8,1,Rays,4,8,0
+1362,2019-07-04,Red Sox,8,8,0,Blue Jays,7,11,0
+1363,2019-07-04,Phillies,6,12,1,Braves,12,12,0
+1364,2019-07-04,Angels,3,10,1,Rangers,9,14,0
+1365,2019-07-04,Padres,1,5,1,Dodgers,5,6,1
+1366,2019-07-05,Royals,7,12,0,Nationals,4,13,1
+1367,2019-07-05,Brewers,7,13,1,Pirates,6,13,0
+1368,2019-07-05,Orioles,4,6,0,Blue Jays,1,4,1
+1369,2019-07-05,Red Sox,9,14,2,Tigers,6,9,1
+1370,2019-07-05,Phillies,7,9,0,Mets,2,7,1
+1371,2019-07-05,Yankees,8,14,0,Rays,4,10,0
+1372,2019-07-05,Marlins,0,7,0,Braves,1,5,0
+1373,2019-07-05,Angels,5,9,0,Astros,4,6,0
+1374,2019-07-05,Rangers,6,10,0,Twins,15,20,0
+1375,2019-07-05,Rockies,0,5,0,D-backs,8,9,2
+1376,2019-07-05,Padres,3,6,2,Dodgers,2,6,0
+1377,2019-07-05,Athletics,5,5,2,Mariners,2,5,2
+1378,2019-07-05,Cardinals,9,14,0,Giants,4,7,0
+1379,2019-07-06,Rangers,4,8,1,Twins,7,9,0
+1380,2019-07-06,Orioles,8,10,0,Blue Jays,1,3,2
+1381,2019-07-06,Royals,0,6,1,Nationals,6,12,0
+1382,2019-07-06,Brewers,2,7,0,Pirates,12,17,0
+1383,2019-07-06,Indians,7,11,1,Reds,2,5,0
+1384,2019-07-06,Red Sox,10,17,1,Tigers,6,14,2
+1385,2019-07-06,Marlins,5,15,1,Braves,4,9,1
+1386,2019-07-06,Yankees,3,8,0,Rays,4,8,0
+1387,2019-07-06,Angels,0,4,0,Astros,4,10,0
+1388,2019-07-06,Phillies,5,12,1,Mets,6,12,2
+1389,2019-07-06,Cubs,6,7,3,White Sox,3,6,0
+1390,2019-07-06,Cardinals,4,10,1,Giants,8,11,1
+1391,2019-07-06,Rockies,2,5,1,D-backs,4,13,0
+1392,2019-07-06,Padres,3,4,1,Dodgers,1,6,1
+1393,2019-07-06,Athletics,3,6,0,Mariners,6,7,1
+1394,2019-07-07,Orioles,1,6,0,Blue Jays,6,9,0
+1395,2019-07-07,Indians,11,18,1,Reds,1,4,0
+1396,2019-07-07,Red Sox,6,9,0,Tigers,3,6,1
+1397,2019-07-07,Phillies,8,13,1,Mets,3,5,1
+1398,2019-07-07,Yankees,1,5,0,Rays,2,10,0
+1399,2019-07-07,Marlins,3,9,0,Braves,4,9,0
+1400,2019-07-07,Royals,2,9,1,Nationals,5,8,0
+1401,2019-07-07,Brewers,5,8,0,Pirates,6,10,0
+1402,2019-07-07,Angels,10,16,0,Astros,11,19,1
+1403,2019-07-07,Rangers,4,10,2,Twins,1,8,1
+1404,2019-07-07,Cubs,1,7,1,White Sox,3,8,0
+1405,2019-07-07,Cardinals,0,6,0,Giants,1,2,0
+1406,2019-07-07,Rockies,3,4,0,D-backs,5,8,0
+1407,2019-07-07,Padres,5,8,0,Dodgers,3,7,0
+1408,2019-07-07,Athletics,7,8,0,Mariners,4,11,1
+1409,2019-07-09,NL All-Stars,3,5,0,AL All-Stars,4,8,0
+1410,2019-07-11,Astros,0,7,0,Rangers,5,11,0
+1411,2019-07-12,Pirates,3,5,0,Cubs,4,6,0
+1412,2019-07-12,Nationals,4,9,0,Phillies,0,8,2
+1413,2019-07-12,Rays,16,20,1,Orioles,4,5,2
+1414,2019-07-12,Blue Jays,0,6,1,Yankees,4,10,0
+1415,2019-07-12,Dodgers,1,5,0,Red Sox,8,8,0
+1416,2019-07-12,Twins,5,8,2,Indians,3,6,1
+1417,2019-07-12,Mets,4,5,0,Marlins,8,8,0
+1418,2019-07-12,Astros,8,9,2,Rangers,9,10,1
+1419,2019-07-12,Giants,10,10,1,Brewers,7,13,0
+1420,2019-07-12,Tigers,5,9,1,Royals,8,9,1
+1421,2019-07-12,D-backs,4,6,1,Cardinals,2,4,0
+1422,2019-07-12,Reds,2,6,2,Rockies,3,8,0
+1423,2019-07-12,Mariners,0,0,1,Angels,13,13,0
+1424,2019-07-12,White Sox,1,10,1,Athletics,5,13,0
+1425,2019-07-12,Braves,5,8,0,Padres,3,9,1
+1426,2019-07-13,Rays,1,3,0,Orioles,2,7,0
+1427,2019-07-13,Rays,12,15,1,Orioles,4,10,0
+1428,2019-07-13,Blue Jays,2,8,0,Yankees,1,8,0
+1429,2019-07-13,Pirates,4,11,2,Cubs,10,13,1
+1430,2019-07-13,White Sox,2,7,1,Athletics,13,13,0
+1431,2019-07-13,Mets,4,8,1,Marlins,2,6,0
+1432,2019-07-13,Twins,6,11,0,Indians,2,5,1
+1433,2019-07-13,Tigers,1,4,0,Royals,4,8,0
+1434,2019-07-13,Dodgers,11,14,1,Red Sox,2,6,1
+1435,2019-07-13,D-backs,2,4,2,Cardinals,4,7,0
+1436,2019-07-13,Nationals,4,9,0,Phillies,3,7,1
+1437,2019-07-13,Giants,4,7,2,Brewers,5,15,2
+1438,2019-07-13,Astros,7,13,3,Rangers,6,6,1
+1439,2019-07-13,Reds,17,24,2,Rockies,9,15,0
+1440,2019-07-13,Braves,7,11,1,Padres,5,5,0
+1441,2019-07-13,Mariners,2,6,0,Angels,9,12,0
+1442,2019-07-14,Rays,4,5,0,Orioles,1,3,0
+1443,2019-07-14,Nationals,3,7,1,Phillies,4,7,0
+1444,2019-07-14,Blue Jays,2,6,0,Yankees,4,10,3
+1445,2019-07-14,Twins,3,7,1,Indians,4,7,1
+1446,2019-07-14,Mets,6,12,0,Marlins,2,11,1
+1447,2019-07-14,Giants,8,11,0,Brewers,3,8,1
+1448,2019-07-14,Tigers,12,19,0,Royals,8,10,0
+1449,2019-07-14,D-backs,2,8,1,Cardinals,5,9,0
+1450,2019-07-14,Pirates,3,9,0,Cubs,8,13,0
+1451,2019-07-14,Astros,12,12,0,Rangers,4,5,2
+1452,2019-07-14,Reds,9,9,3,Rockies,10,14,1
+1453,2019-07-14,Mariners,3,10,0,Angels,6,6,0
+1454,2019-07-14,White Sox,2,7,2,Athletics,3,7,1
+1455,2019-07-14,Braves,4,7,0,Padres,1,10,2
+1456,2019-07-14,Dodgers,7,9,3,Red Sox,4,11,2
+1457,2019-07-15,Giants,19,21,0,Rockies,2,6,1
+1458,2019-07-15,Giants,2,6,2,Rockies,1,5,0
+1459,2019-07-15,Dodgers,16,19,1,Phillies,2,7,1
+1460,2019-07-15,Rays,5,11,0,Yankees,4,8,0
+1461,2019-07-15,Tigers,6,11,0,Indians,8,14,0
+1462,2019-07-15,Blue Jays,8,13,0,Red Sox,10,13,2
+1463,2019-07-15,Reds,6,10,0,Cubs,3,9,2
+1464,2019-07-15,Braves,4,9,0,Brewers,2,7,1
+1465,2019-07-15,Pirates,0,8,1,Cardinals,7,8,1
+1466,2019-07-15,White Sox,2,8,1,Royals,5,10,2
+1467,2019-07-15,Astros,6,9,2,Angels,9,10,0
+1468,2019-07-16,Nationals,8,12,0,Orioles,1,4,1
+1469,2019-07-16,Dodgers,8,7,2,Phillies,9,8,1
+1470,2019-07-16,Rays,3,8,0,Yankees,8,8,0
+1471,2019-07-16,Tigers,0,1,1,Indians,8,9,0
+1472,2019-07-16,Blue Jays,10,14,0,Red Sox,4,9,1
+1473,2019-07-16,Padres,7,11,0,Marlins,12,14,1
+1474,2019-07-16,Reds,3,8,0,Cubs,4,9,0
+1475,2019-07-16,D-backs,9,10,0,Rangers,2,5,2
+1476,2019-07-16,Mets,3,7,0,Twins,2,8,1
+1477,2019-07-16,Braves,1,5,0,Brewers,13,13,0
+1478,2019-07-16,Pirates,3,5,1,Cardinals,1,5,0
+1479,2019-07-16,White Sox,0,5,3,Royals,11,14,0
+1480,2019-07-16,Giants,8,14,0,Rockies,4,7,1
+1481,2019-07-16,Astros,2,14,0,Angels,7,9,0
+1482,2019-07-16,Mariners,2,6,1,Athletics,9,12,0
+1483,2019-07-17,Mets,14,17,0,Twins,4,8,2
+1484,2019-07-17,Pirates,5,11,1,Cardinals,6,7,0
+1485,2019-07-17,Braves,4,6,1,Brewers,5,7,1
+1486,2019-07-17,Reds,2,7,0,Cubs,5,6,0
+1487,2019-07-17,Giants,11,18,0,Rockies,8,11,1
+1488,2019-07-17,Mariners,2,8,0,Athletics,10,10,0
+1489,2019-07-17,Nationals,2,5,0,Orioles,9,15,1
+1490,2019-07-17,Dodgers,7,7,2,Phillies,2,2,0
+1491,2019-07-17,Tigers,2,7,2,Indians,7,12,1
+1492,2019-07-17,Blue Jays,4,5,0,Red Sox,5,14,1
+1493,2019-07-17,Padres,3,9,3,Marlins,2,3,0
+1494,2019-07-17,D-backs,19,21,1,Rangers,4,7,1
+1495,2019-07-17,White Sox,5,10,0,Royals,7,12,0
+1496,2019-07-17,Astros,11,12,0,Angels,2,9,0
+1497,2019-07-18,Padres,3,7,2,Marlins,4,11,0
+1498,2019-07-18,Dodgers,6,10,2,Phillies,7,10,1
+1499,2019-07-18,Blue Jays,0,2,0,Red Sox,5,7,0
+1500,2019-07-18,White Sox,5,11,1,Royals,6,13,2
+1501,2019-07-18,Rays,2,5,1,Yankees,6,10,0
+1502,2019-07-18,Rays,1,5,1,Yankees,5,6,0
+1503,2019-07-18,Tigers,3,8,2,Indians,6,8,0
+1504,2019-07-18,Cardinals,7,10,0,Reds,4,10,0
+1505,2019-07-18,Nationals,13,16,0,Braves,4,10,0
+1506,2019-07-18,Athletics,3,8,0,Twins,6,9,2
+1507,2019-07-18,Astros,6,8,1,Angels,2,7,0
+1508,2019-07-18,Brewers,5,8,0,D-backs,1,7,1
+1509,2019-07-18,Mets,2,11,0,Giants,3,14,0
+1510,2019-07-19,Padres,5,13,2,Cubs,6,7,2
+1511,2019-07-19,Red Sox,2,7,2,Orioles,11,14,0
+1512,2019-07-19,Phillies,6,15,0,Pirates,1,7,1
+1513,2019-07-19,Rockies,2,9,1,Yankees,8,12,1
+1514,2019-07-19,Royals,5,9,0,Indians,10,16,0
+1515,2019-07-19,Cardinals,12,11,0,Reds,11,18,1
+1516,2019-07-19,Blue Jays,12,15,1,Tigers,1,8,1
+1517,2019-07-19,White Sox,9,17,0,Rays,2,6,0
+1518,2019-07-19,Nationals,3,7,0,Braves,4,12,0
+1519,2019-07-19,Rangers,3,10,0,Astros,4,7,2
+1520,2019-07-19,Athletics,5,12,1,Twins,3,7,0
+1521,2019-07-19,Brewers,7,12,1,D-backs,10,10,1
+1522,2019-07-19,Angels,0,1,0,Mariners,10,12,0
+1523,2019-07-19,Marlins,1,4,1,Dodgers,2,6,2
+1524,2019-07-19,Mets,0,3,1,Giants,1,3,0
+1525,2019-07-20,Rockies,5,7,2,Yankees,11,14,0
+1526,2019-07-20,Padres,5,9,1,Cubs,6,11,1
+1527,2019-07-20,Mets,11,17,0,Giants,4,9,0
+1528,2019-07-20,Blue Jays,7,12,1,Tigers,5,7,0
+1529,2019-07-20,White Sox,2,8,1,Rays,1,9,0
+1530,2019-07-20,Red Sox,17,17,0,Orioles,6,14,1
+1531,2019-07-20,Phillies,1,3,1,Pirates,5,13,1
+1532,2019-07-20,Royals,1,6,0,Indians,0,3,1
+1533,2019-07-20,Cardinals,2,6,0,Reds,3,7,0
+1534,2019-07-20,Rangers,1,2,0,Astros,6,11,0
+1535,2019-07-20,Athletics,5,11,0,Twins,4,9,1
+1536,2019-07-20,Nationals,5,12,1,Braves,3,8,1
+1537,2019-07-20,Brewers,8,10,0,D-backs,3,6,0
+1538,2019-07-20,Angels,6,8,1,Mariners,2,5,1
+1539,2019-07-20,Marlins,6,6,0,Dodgers,10,12,3
+1540,2019-07-21,Red Sox,0,1,0,Orioles,5,7,0
+1541,2019-07-21,Rockies,8,10,0,Yankees,4,4,1
+1542,2019-07-21,Royals,4,8,1,Indians,5,9,0
+1543,2019-07-21,Cardinals,3,6,0,Reds,1,7,1
+1544,2019-07-21,Blue Jays,3,5,0,Tigers,4,12,1
+1545,2019-07-21,White Sox,2,5,0,Rays,4,3,0
+1546,2019-07-21,Phillies,2,6,0,Pirates,1,6,0
+1547,2019-07-21,Rangers,3,6,0,Astros,5,9,0
+1548,2019-07-21,Athletics,6,7,1,Twins,7,13,0
+1549,2019-07-21,Padres,5,6,0,Cubs,1,6,0
+1550,2019-07-21,Mets,2,5,1,Giants,3,7,0
+1551,2019-07-21,Angels,9,12,0,Mariners,3,12,0
+1552,2019-07-21,Marlins,0,6,2,Dodgers,9,9,0
+1553,2019-07-21,Brewers,7,8,0,D-backs,4,9,0
+1554,2019-07-21,Nationals,1,6,1,Braves,7,11,0
+1555,2019-07-22,Cardinals,6,8,1,Pirates,5,12,3
+1556,2019-07-22,Indians,7,12,0,Blue Jays,3,5,1
+1557,2019-07-22,Red Sox,9,12,0,Rays,4,9,0
+1558,2019-07-22,Athletics,1,2,0,Astros,11,13,1
+1559,2019-07-22,Marlins,1,4,0,White Sox,9,10,1
+1560,2019-07-22,Yankees,6,13,0,Twins,8,8,0
+1561,2019-07-22,Reds,6,12,0,Brewers,5,8,0
+1562,2019-07-22,Orioles,3,9,1,D-backs,6,12,0
+1563,2019-07-22,Cubs,4,6,0,Giants,5,13,0
+1564,2019-07-22,Rangers,3,9,0,Mariners,7,11,0
+1565,2019-07-23,Rockies,1,7,2,Nationals,11,17,0
+1566,2019-07-23,Cardinals,4,7,0,Pirates,3,6,0
+1567,2019-07-23,Indians,1,6,0,Blue Jays,2,8,0
+1568,2019-07-23,Padres,2,5,0,Mets,5,8,0
+1569,2019-07-23,Red Sox,5,10,0,Rays,4,6,0
+1570,2019-07-23,Phillies,3,9,1,Tigers,2,7,2
+1571,2019-07-23,Royals,5,5,0,Braves,4,11,0
+1572,2019-07-23,Athletics,4,8,2,Astros,3,8,0
+1573,2019-07-23,Marlins,5,6,0,White Sox,1,2,1
+1574,2019-07-23,Yankees,14,20,1,Twins,12,15,0
+1575,2019-07-23,Reds,14,17,1,Brewers,6,10,1
+1576,2019-07-23,Orioles,7,9,1,D-backs,2,5,1
+1577,2019-07-23,Cubs,4,9,0,Giants,5,8,1
+1578,2019-07-23,Angels,5,11,2,Dodgers,4,9,1
+1579,2019-07-23,Rangers,7,10,0,Mariners,2,7,1
+1580,2019-07-24,Red Sox,2,5,0,Rays,3,5,0
+1581,2019-07-24,Rockies,2,9,0,Nationals,3,7,0
+1582,2019-07-24,Rockies,0,5,1,Nationals,2,6,0
+1583,2019-07-24,Phillies,4,10,0,Tigers,0,5,1
+1584,2019-07-24,Athletics,2,6,0,Astros,4,6,2
+1585,2019-07-24,Reds,4,9,1,Brewers,5,6,1
+1586,2019-07-24,Orioles,2,7,2,D-backs,5,11,0
+1587,2019-07-24,Rangers,3,9,1,Mariners,5,8,0
+1588,2019-07-24,Cubs,4,11,0,Giants,1,7,1
+1589,2019-07-24,Cardinals,14,15,1,Pirates,8,11,1
+1590,2019-07-24,Indians,4,9,0,Blue Jays,0,1,0
+1591,2019-07-24,Padres,7,14,0,Mets,2,5,2
+1592,2019-07-24,Royals,2,5,0,Braves,0,5,1
+1593,2019-07-24,Marlins,2,5,0,White Sox,0,5,0
+1594,2019-07-24,Yankees,10,15,0,Twins,7,9,0
+1595,2019-07-24,Angels,3,6,0,Dodgers,2,5,1
+1596,2019-07-25,Padres,0,6,0,Mets,4,12,0
+1597,2019-07-25,Cardinals,6,8,0,Pirates,3,7,1
+1598,2019-07-25,Rockies,8,11,0,Nationals,7,7,0
+1599,2019-07-25,Yankees,3,7,0,Red Sox,19,23,0
+1600,2019-07-25,Twins,10,12,4,White Sox,3,7,0
+1601,2019-07-25,Indians,5,14,0,Royals,4,11,2
+1602,2019-07-25,Orioles,10,18,0,Angels,8,11,3
+1603,2019-07-25,Rangers,11,13,1,Athletics,3,3,0
+1604,2019-07-25,Tigers,2,5,1,Mariners,10,9,2
+1605,2019-07-26,Rockies,12,14,0,Reds,2,8,1
+1606,2019-07-26,Dodgers,4,5,1,Nationals,2,10,0
+1607,2019-07-26,Braves,9,8,0,Phillies,2,12,1
+1608,2019-07-26,Rays,3,9,0,Blue Jays,1,4,1
+1609,2019-07-26,Pirates,3,7,0,Mets,6,6,3
+1610,2019-07-26,D-backs,2,6,0,Marlins,3,7,1
+1611,2019-07-26,Yankees,5,13,0,Red Sox,10,14,1
+1612,2019-07-26,Twins,6,10,1,White Sox,2,8,2
+1613,2019-07-26,Cubs,2,4,0,Brewers,3,4,0
+1614,2019-07-26,Indians,8,13,1,Royals,3,9,1
+1615,2019-07-26,Astros,3,5,0,Cardinals,5,8,0
+1616,2019-07-26,Orioles,9,11,0,Angels,3,5,1
+1617,2019-07-26,Rangers,5,7,2,Athletics,2,5,2
+1618,2019-07-26,Tigers,2,8,0,Mariners,3,8,0
+1619,2019-07-26,Giants,2,5,1,Padres,1,5,1
+1620,2019-07-27,Rays,9,13,1,Blue Jays,10,16,0
+1621,2019-07-27,Dodgers,9,10,0,Nationals,3,5,1
+1622,2019-07-27,Yankees,5,11,1,Red Sox,9,15,0
+1623,2019-07-27,Tigers,1,7,0,Mariners,8,16,1
+1624,2019-07-27,D-backs,9,7,0,Marlins,2,9,1
+1625,2019-07-27,Braves,15,16,0,Phillies,7,12,1
+1626,2019-07-27,Rockies,1,5,0,Reds,3,6,0
+1627,2019-07-27,Pirates,0,5,1,Mets,3,3,1
+1628,2019-07-27,Twins,1,3,2,White Sox,5,10,1
+1629,2019-07-27,Cubs,3,6,0,Brewers,5,9,0
+1630,2019-07-27,Indians,9,14,0,Royals,1,8,0
+1631,2019-07-27,Astros,8,11,1,Cardinals,2,7,0
+1632,2019-07-27,Giants,1,5,1,Padres,5,9,0
+1633,2019-07-27,Orioles,8,14,0,Angels,7,9,2
+1634,2019-07-27,Rangers,4,11,0,Athletics,5,6,0
+1635,2019-07-28,Braves,4,8,0,Phillies,9,12,0
+1636,2019-07-28,Rays,10,16,0,Blue Jays,9,12,0
+1637,2019-07-28,Rockies,2,10,0,Reds,3,8,0
+1638,2019-07-28,Pirates,7,9,3,Mets,8,8,1
+1639,2019-07-28,D-backs,1,4,1,Marlins,5,9,1
+1640,2019-07-28,Dodgers,4,4,1,Nationals,11,14,0
+1641,2019-07-28,Twins,11,13,0,White Sox,1,7,1
+1642,2019-07-28,Cubs,11,7,1,Brewers,4,5,0
+1643,2019-07-28,Indians,6,8,1,Royals,9,12,1
+1644,2019-07-28,Astros,6,13,1,Cardinals,2,9,2
+1645,2019-07-28,Orioles,4,5,0,Angels,5,9,1
+1646,2019-07-28,Rangers,5,8,1,Athletics,6,10,0
+1647,2019-07-28,Tigers,2,7,0,Mariners,3,6,1
+1648,2019-07-28,Giants,7,16,0,Padres,6,7,0
+1649,2019-07-28,Yankees,9,8,2,Red Sox,6,10,3
+1650,2019-07-29,Braves,3,7,0,Nationals,6,7,2
+1651,2019-07-29,Pirates,6,9,1,Reds,11,13,0
+1652,2019-07-29,D-backs,6,7,2,Marlins,11,10,0
+1653,2019-07-29,Blue Jays,7,11,1,Royals,3,5,0
+1654,2019-07-29,Dodgers,1,4,2,Rockies,9,11,0
+1655,2019-07-29,Tigers,7,9,0,Angels,2,5,2
+1656,2019-07-29,Orioles,1,7,1,Padres,8,10,2
+1657,2019-07-30,Orioles,8,13,1,Padres,5,10,0
+1658,2019-07-30,Giants,2,6,0,Phillies,4,11,0
+1659,2019-07-30,Braves,11,14,0,Nationals,8,12,2
+1660,2019-07-30,D-backs,4,11,1,Yankees,2,5,0
+1661,2019-07-30,Astros,2,9,0,Indians,0,2,0
+1662,2019-07-30,Pirates,11,12,2,Reds,4,8,0
+1663,2019-07-30,Rays,6,12,0,Red Sox,5,13,1
+1664,2019-07-30,Twins,2,4,1,Marlins,1,4,0
+1665,2019-07-30,Mariners,8,13,1,Rangers,5,14,3
+1666,2019-07-30,Mets,5,12,2,White Sox,2,6,1
+1667,2019-07-30,Cubs,1,6,1,Cardinals,2,7,0
+1668,2019-07-30,Blue Jays,9,10,2,Royals,2,11,2
+1669,2019-07-30,Dodgers,9,9,1,Rockies,4,10,1
+1670,2019-07-30,Tigers,1,8,2,Angels,6,12,1
+1671,2019-07-30,Brewers,2,7,1,Athletics,3,7,0
+1672,2019-07-31,Braves,5,12,0,Nationals,4,8,0
+1673,2019-07-31,Pirates,1,6,0,Reds,4,10,0
+1674,2019-07-31,D-backs,5,9,0,Yankees,7,8,1
+1675,2019-07-31,Blue Jays,4,9,0,Royals,1,3,0
+1676,2019-07-31,Dodgers,5,8,0,Rockies,1,6,1
+1677,2019-07-31,Tigers,9,9,0,Angels,1,5,0
+1678,2019-07-31,Giants,5,8,0,Phillies,1,5,0
+1679,2019-07-31,Astros,4,7,0,Indians,10,11,0
+1680,2019-07-31,Rays,8,12,1,Red Sox,5,12,0
+1681,2019-07-31,Twins,7,8,0,Marlins,4,6,0
+1682,2019-07-31,Mariners,7,12,1,Rangers,9,16,1
+1683,2019-07-31,Mets,4,6,0,White Sox,2,8,1
+1684,2019-07-31,Cubs,2,8,1,Cardinals,0,9,2
+1685,2019-07-31,Brewers,4,9,1,Athletics,2,7,0
+1686,2019-08-01,Twins,4,9,1,Marlins,5,11,0
+1687,2019-08-01,Giants,2,10,1,Phillies,10,12,3
+1688,2019-08-01,Mets,4,8,0,White Sox,0,4,1
+1689,2019-08-01,Brewers,3,7,0,Athletics,5,6,1
+1690,2019-08-01,Blue Jays,11,14,0,Orioles,2,8,0
+1691,2019-08-01,Astros,7,11,0,Indians,1,6,0
+1692,2019-08-01,Rays,9,12,0,Red Sox,4,10,0
+1693,2019-08-01,Cubs,0,1,0,Cardinals,8,14,0
+1694,2019-08-01,Reds,1,4,1,Braves,4,8,0
+1695,2019-08-01,Padres,2,8,0,Dodgers,8,11,0
+1696,2019-08-02,Brewers,2,8,3,Cubs,6,12,0
+1697,2019-08-02,Mets,4,9,1,Pirates,8,10,1
+1698,2019-08-02,Blue Jays,5,8,1,Orioles,2,7,0
+1699,2019-08-02,White Sox,4,12,1,Phillies,3,12,1
+1700,2019-08-02,Red Sox,2,3,0,Yankees,4,5,0
+1701,2019-08-02,Angels,3,5,0,Indians,7,12,0
+1702,2019-08-02,Reds,5,10,0,Braves,2,4,0
+1703,2019-08-02,Tigers,4,9,2,Rangers,5,12,0
+1704,2019-08-02,Mariners,2,3,1,Astros,10,12,0
+1705,2019-08-02,Royals,9,15,0,Twins,11,11,2
+1706,2019-08-02,Giants,4,9,0,Rockies,5,12,0
+1707,2019-08-02,Nationals,3,4,0,D-backs,0,1,0
+1708,2019-08-02,Padres,5,14,0,Dodgers,2,4,1
+1709,2019-08-03,Red Sox,2,5,0,Yankees,9,14,0
+1710,2019-08-03,Red Sox,4,8,0,Yankees,6,13,0
+1711,2019-08-03,Brewers,1,8,0,Cubs,4,9,0
+1712,2019-08-03,Marlins,6,9,0,Rays,8,11,2
+1713,2019-08-03,Mets,7,11,0,Pirates,5,10,1
+1714,2019-08-03,Blue Jays,4,12,1,Orioles,6,6,0
+1715,2019-08-03,White Sox,2,5,2,Phillies,3,4,1
+1716,2019-08-03,Angels,2,9,2,Indians,7,7,1
+1717,2019-08-03,Mariners,0,0,1,Astros,9,15,0
+1718,2019-08-03,Royals,3,5,2,Twins,11,12,1
+1719,2019-08-03,Reds,4,8,0,Braves,5,8,0
+1720,2019-08-03,Tigers,4,8,1,Rangers,5,8,1
+1721,2019-08-03,Nationals,7,11,0,D-backs,18,15,0
+1722,2019-08-03,Giants,6,14,1,Rockies,5,12,0
+1723,2019-08-03,Cardinals,3,8,0,Athletics,8,11,0
+1724,2019-08-03,Padres,1,5,1,Dodgers,4,7,1
+1725,2019-08-04,Blue Jays,5,13,2,Orioles,6,6,0
+1726,2019-08-04,White Sox,10,11,0,Phillies,5,9,1
+1727,2019-08-04,Angels,2,5,0,Indians,6,10,0
+1728,2019-08-04,Marlins,2,6,1,Rays,7,10,1
+1729,2019-08-04,Reds,6,8,1,Braves,4,9,0
+1730,2019-08-04,Mets,13,16,0,Pirates,2,4,1
+1731,2019-08-04,Mariners,1,4,1,Astros,3,5,0
+1732,2019-08-04,Royals,0,2,0,Twins,3,6,0
+1733,2019-08-04,Brewers,2,9,0,Cubs,7,14,1
+1734,2019-08-04,Tigers,4,10,3,Rangers,9,8,2
+1735,2019-08-04,Giants,2,7,0,Rockies,6,13,0
+1736,2019-08-04,Cardinals,2,5,0,Athletics,4,7,1
+1737,2019-08-04,Nationals,5,9,0,D-backs,7,9,1
+1738,2019-08-04,Padres,10,12,1,Dodgers,11,11,1
+1739,2019-08-04,Red Sox,4,7,0,Yankees,7,10,0
+1740,2019-08-05,Marlins,2,6,1,Mets,6,6,0
+1741,2019-08-05,Marlins,4,9,0,Mets,5,8,0
+1742,2019-08-05,Yankees,9,12,2,Orioles,6,12,1
+1743,2019-08-05,Brewers,9,13,1,Pirates,7,8,1
+1744,2019-08-05,Angels,4,5,1,Reds,7,8,0
+1745,2019-08-05,Royals,5,8,1,Red Sox,7,10,0
+1746,2019-08-05,Rangers,1,5,0,Indians,0,8,0
+1747,2019-08-05,Blue Jays,2,9,3,Rays,0,5,0
+1748,2019-08-05,White Sox,7,14,0,Tigers,4,11,2
+1749,2019-08-05,Athletics,5,6,0,Cubs,6,12,0
+1750,2019-08-05,Braves,3,9,0,Twins,5,8,1
+1751,2019-08-05,Phillies,7,13,1,D-backs,3,9,2
+1752,2019-08-05,Nationals,4,6,0,Giants,0,7,0
+1753,2019-08-05,Cardinals,0,2,0,Dodgers,8,12,0
+1754,2019-08-06,White Sox,5,13,2,Tigers,3,10,0
+1755,2019-08-06,White Sox,6,14,2,Tigers,10,16,1
+1756,2019-08-06,Yankees,9,11,0,Orioles,4,11,0
+1757,2019-08-06,Brewers,4,7,0,Pirates,3,10,1
+1758,2019-08-06,Angels,4,7,1,Reds,8,13,0
+1759,2019-08-06,Royals,6,7,0,Red Sox,2,9,0
+1760,2019-08-06,Blue Jays,6,8,1,Rays,7,12,2
+1761,2019-08-06,Marlins,0,9,0,Mets,5,8,1
+1762,2019-08-06,Athletics,11,13,1,Cubs,4,11,1
+1763,2019-08-06,Rockies,6,7,1,Astros,11,13,2
+1764,2019-08-06,Braves,12,16,0,Twins,7,10,1
+1765,2019-08-06,Phillies,4,15,1,D-backs,8,12,3
+1766,2019-08-06,Nationals,5,8,1,Giants,3,8,1
+1767,2019-08-06,Padres,9,9,1,Mariners,4,6,0
+1768,2019-08-06,Cardinals,1,7,0,Dodgers,3,7,0
+1769,2019-08-07,Marlins,2,8,0,Mets,7,10,0
+1770,2019-08-07,Rangers,0,6,0,Indians,2,3,1
+1771,2019-08-07,Rangers,1,4,0,Indians,5,9,1
+1772,2019-08-07,Blue Jays,4,7,0,Rays,3,8,1
+1773,2019-08-07,Braves,11,17,1,Twins,7,12,0
+1774,2019-08-07,White Sox,8,15,0,Tigers,1,6,1
+1775,2019-08-07,Rockies,3,8,0,Astros,14,12,0
+1776,2019-08-07,Athletics,1,3,0,Cubs,10,11,0
+1777,2019-08-07,Cardinals,1,7,0,Dodgers,2,7,0
+1778,2019-08-07,Nationals,4,9,0,Giants,1,6,0
+1779,2019-08-07,Padres,2,8,1,Mariners,3,7,0
+1780,2019-08-07,Yankees,14,15,0,Orioles,2,6,2
+1781,2019-08-07,Brewers,8,10,2,Pirates,3,6,2
+1782,2019-08-07,Royals,4,13,0,Red Sox,5,12,0
+1783,2019-08-07,Phillies,1,5,2,D-backs,6,8,0
+1784,2019-08-08,Yankees,12,15,1,Blue Jays,6,12,1
+1785,2019-08-08,Angels,0,2,0,Red Sox,3,5,0
+1786,2019-08-08,Cubs,12,19,0,Reds,5,11,0
+1787,2019-08-08,Royals,8,9,2,Tigers,10,8,0
+1788,2019-08-08,Braves,2,5,1,Marlins,9,15,0
+1789,2019-08-08,Indians,7,7,0,Twins,5,8,1
+1790,2019-08-08,Phillies,0,1,1,Giants,5,10,0
+1791,2019-08-08,Rockies,3,13,3,Padres,9,8,0
+1792,2019-08-09,Athletics,7,9,0,White Sox,0,4,0
+1793,2019-08-09,Astros,3,8,0,Orioles,2,8,1
+1794,2019-08-09,Yankees,2,7,0,Blue Jays,8,6,0
+1795,2019-08-09,Angels,4,3,2,Red Sox,16,14,0
+1796,2019-08-09,Cubs,2,5,0,Reds,5,6,0
+1797,2019-08-09,Royals,2,7,0,Tigers,5,12,0
+1798,2019-08-09,Nationals,6,13,0,Mets,7,11,0
+1799,2019-08-09,Braves,8,12,0,Marlins,4,9,2
+1800,2019-08-09,Indians,6,14,1,Twins,2,8,1
+1801,2019-08-09,Rangers,5,4,0,Brewers,6,8,2
+1802,2019-08-09,Pirates,2,7,1,Cardinals,6,10,0
+1803,2019-08-09,D-backs,3,12,0,Dodgers,2,2,0
+1804,2019-08-09,Rockies,1,6,0,Padres,7,11,1
+1805,2019-08-09,Rays,5,8,0,Mariners,3,10,1
+1806,2019-08-09,Phillies,9,10,1,Giants,6,11,1
+1807,2019-08-10,Yankees,4,5,0,Blue Jays,5,5,0
+1808,2019-08-10,Angels,12,11,2,Red Sox,4,9,1
+1809,2019-08-10,Phillies,1,3,1,Giants,3,5,0
+1810,2019-08-10,Royals,7,5,0,Tigers,0,6,2
+1811,2019-08-10,Braves,6,7,1,Marlins,7,13,0
+1812,2019-08-10,Astros,23,25,1,Orioles,2,6,1
+1813,2019-08-10,Cubs,1,7,1,Reds,10,18,0
+1814,2019-08-10,Nationals,3,8,1,Mets,4,5,0
+1815,2019-08-10,Indians,1,8,0,Twins,4,10,0
+1816,2019-08-10,Athletics,2,10,1,White Sox,3,7,1
+1817,2019-08-10,Rangers,2,5,0,Brewers,3,9,1
+1818,2019-08-10,Pirates,1,6,1,Cardinals,3,7,0
+1819,2019-08-10,Rockies,5,8,1,Padres,8,11,1
+1820,2019-08-10,D-backs,0,4,0,Dodgers,4,6,0
+1821,2019-08-10,Rays,5,8,0,Mariners,4,9,0
+1822,2019-08-11,Angels,5,8,0,Red Sox,4,8,0
+1823,2019-08-11,Astros,7,11,1,Orioles,8,16,1
+1824,2019-08-11,Yankees,1,5,1,Blue Jays,0,4,0
+1825,2019-08-11,Cubs,6,10,0,Reds,3,6,0
+1826,2019-08-11,Royals,10,11,0,Tigers,2,7,1
+1827,2019-08-11,Nationals,7,10,0,Mets,4,9,2
+1828,2019-08-11,Braves,5,5,0,Marlins,4,12,0
+1829,2019-08-11,Indians,7,9,0,Twins,3,9,0
+1830,2019-08-11,Athletics,2,7,0,White Sox,0,5,0
+1831,2019-08-11,Rangers,1,4,0,Brewers,0,4,0
+1832,2019-08-11,Pirates,9,13,1,Cardinals,11,14,1
+1833,2019-08-11,Rockies,8,12,0,Padres,3,6,1
+1834,2019-08-11,D-backs,3,9,0,Dodgers,9,14,0
+1835,2019-08-11,Rays,1,6,0,Mariners,0,3,0
+1836,2019-08-11,Phillies,6,10,0,Giants,9,12,0
+1837,2019-08-12,Orioles,5,7,0,Yankees,8,8,0
+1838,2019-08-12,Orioles,8,9,1,Yankees,11,12,0
+1839,2019-08-12,Reds,6,11,0,Nationals,7,11,0
+1840,2019-08-12,Rangers,4,8,0,Blue Jays,19,21,0
+1841,2019-08-12,Red Sox,5,12,0,Indians,6,12,0
+1842,2019-08-12,D-backs,8,11,0,Rockies,6,11,0
+1843,2019-08-12,Pirates,10,13,1,Angels,2,9,3
+1844,2019-08-12,Rays,10,14,1,Padres,4,10,0
+1845,2019-08-13,Astros,6,9,0,White Sox,2,7,0
+1846,2019-08-13,Astros,1,4,1,White Sox,4,10,1
+1847,2019-08-13,Reds,1,9,0,Nationals,3,6,0
+1848,2019-08-13,Cubs,2,5,1,Phillies,4,9,0
+1849,2019-08-13,Orioles,3,6,0,Yankees,8,15,0
+1850,2019-08-13,Rangers,0,5,1,Blue Jays,3,6,0
+1851,2019-08-13,Red Sox,7,17,1,Indians,6,9,0
+1852,2019-08-13,Mariners,11,11,0,Tigers,6,13,1
+1853,2019-08-13,Dodgers,15,15,0,Marlins,1,4,1
+1854,2019-08-13,Mets,3,10,0,Braves,5,13,0
+1855,2019-08-13,Twins,7,9,1,Brewers,5,10,0
+1856,2019-08-13,Cardinals,2,5,0,Royals,0,4,1
+1857,2019-08-13,D-backs,9,11,0,Rockies,3,13,0
+1858,2019-08-13,Athletics,2,5,1,Giants,3,6,0
+1859,2019-08-13,Pirates,10,17,0,Angels,7,10,2
+1860,2019-08-13,Rays,7,11,2,Padres,5,7,2
+1861,2019-08-14,Rangers,7,10,1,Blue Jays,3,6,0
+1862,2019-08-14,Orioles,5,10,0,Yankees,6,7,0
+1863,2019-08-14,Red Sox,5,12,1,Indians,1,5,0
+1864,2019-08-14,Astros,9,15,2,White Sox,13,15,1
+1865,2019-08-14,Twins,5,6,2,Brewers,6,11,0
+1866,2019-08-14,D-backs,6,12,5,Rockies,7,9,0
+1867,2019-08-14,Rays,2,6,1,Padres,7,10,0
+1868,2019-08-14,Athletics,9,15,0,Giants,5,7,0
+1869,2019-08-14,Reds,7,13,0,Nationals,17,17,0
+1870,2019-08-14,Cubs,1,4,0,Phillies,11,13,0
+1871,2019-08-14,Mariners,2,7,1,Tigers,3,12,1
+1872,2019-08-14,Dodgers,9,12,1,Marlins,1,3,0
+1873,2019-08-14,Mets,4,12,0,Braves,6,8,1
+1874,2019-08-14,Pirates,4,6,1,Angels,7,10,1
+1875,2019-08-14,Cardinals,6,8,0,Royals,0,5,1
+1876,2019-08-15,Mariners,7,14,1,Tigers,2,8,0
+1877,2019-08-15,Dodgers,7,7,0,Marlins,13,13,0
+1878,2019-08-15,Cubs,5,9,1,Phillies,7,10,1
+1879,2019-08-15,Indians,19,24,1,Yankees,5,9,0
+1880,2019-08-15,Cardinals,1,2,0,Reds,2,7,0
+1881,2019-08-15,Mets,10,23,1,Braves,8,11,0
+1882,2019-08-15,Twins,13,14,1,Rangers,6,13,2
+1883,2019-08-15,Giants,7,13,0,D-backs,0,3,0
+1884,2019-08-15,Astros,6,7,0,Athletics,7,8,0
+1885,2019-08-15,White Sox,7,9,1,Angels,8,11,1
+1886,2019-08-16,Cubs,2,5,1,Pirates,3,5,0
+1887,2019-08-16,Padres,4,7,2,Phillies,8,12,0
+1888,2019-08-16,Indians,2,4,1,Yankees,3,10,1
+1889,2019-08-16,Brewers,1,9,1,Nationals,2,3,0
+1890,2019-08-16,Mariners,3,7,0,Blue Jays,7,11,0
+1891,2019-08-16,Orioles,1,5,0,Red Sox,9,12,0
+1892,2019-08-16,Cardinals,13,18,2,Reds,4,7,1
+1893,2019-08-16,Tigers,2,6,0,Rays,0,5,1
+1894,2019-08-16,Dodgers,8,11,0,Braves,3,6,0
+1895,2019-08-16,Twins,4,9,0,Rangers,3,9,1
+1896,2019-08-16,Mets,1,8,1,Royals,4,8,1
+1897,2019-08-16,Marlins,0,6,1,Rockies,3,5,0
+1898,2019-08-16,Giants,10,15,0,D-backs,9,13,0
+1899,2019-08-16,Astros,2,9,1,Athletics,3,8,2
+1900,2019-08-16,White Sox,7,10,1,Angels,2,6,1
+1901,2019-08-17,Indians,5,9,2,Yankees,6,8,0
+1902,2019-08-17,Cubs,2,4,2,Pirates,0,4,1
+1903,2019-08-17,Mariners,4,6,1,Blue Jays,3,9,1
+1904,2019-08-17,Astros,4,10,0,Athletics,8,13,0
+1905,2019-08-17,Tigers,0,3,0,Rays,1,6,0
+1906,2019-08-17,Cardinals,1,7,0,Reds,6,11,1
+1907,2019-08-17,Padres,5,12,0,Phillies,3,6,0
+1908,2019-08-17,Brewers,15,20,1,Nationals,14,18,0
+1909,2019-08-17,Orioles,0,5,0,Red Sox,4,7,0
+1910,2019-08-17,Mets,4,11,1,Royals,1,4,0
+1911,2019-08-17,Dodgers,3,9,0,Braves,4,7,1
+1912,2019-08-17,Twins,12,18,1,Rangers,7,10,1
+1913,2019-08-17,Giants,11,18,1,D-backs,6,12,1
+1914,2019-08-17,Marlins,4,8,0,Rockies,11,13,0
+1915,2019-08-17,White Sox,5,9,0,Angels,6,7,0
+1916,2019-08-18,Orioles,7,9,1,Red Sox,13,16,1
+1917,2019-08-18,Padres,3,9,0,Phillies,2,4,0
+1918,2019-08-18,Indians,8,11,0,Yankees,4,9,1
+1919,2019-08-18,Mariners,7,11,0,Blue Jays,0,2,0
+1920,2019-08-18,Cardinals,5,8,0,Reds,4,8,1
+1921,2019-08-18,Tigers,4,10,1,Rays,5,5,1
+1922,2019-08-18,Dodgers,3,9,2,Braves,5,9,0
+1923,2019-08-18,Brewers,8,17,0,Nationals,16,19,2
+1924,2019-08-18,Mets,11,16,1,Royals,5,6,0
+1925,2019-08-18,Twins,6,8,2,Rangers,3,10,2
+1926,2019-08-18,Marlins,6,11,2,Rockies,7,10,0
+1927,2019-08-18,Astros,4,10,0,Athletics,1,6,1
+1928,2019-08-18,White Sox,2,7,0,Angels,9,15,0
+1929,2019-08-18,Giants,1,7,1,D-backs,6,8,0
+1930,2019-08-18,Cubs,7,9,1,Pirates,1,7,1
+1931,2019-08-19,Royals,5,6,2,Orioles,4,7,1
+1932,2019-08-19,Nationals,13,15,0,Pirates,0,4,1
+1933,2019-08-19,Padres,3,5,0,Reds,2,8,1
+1934,2019-08-19,Mariners,9,9,0,Rays,3,6,2
+1935,2019-08-19,Brewers,0,1,0,Cardinals,3,5,1
+1936,2019-08-19,Angels,7,13,2,Rangers,8,13,0
+1937,2019-08-19,Tigers,4,14,2,Astros,5,8,1
+1938,2019-08-19,White Sox,6,8,1,Twins,4,15,1
+1939,2019-08-19,Rockies,3,9,1,D-backs,5,6,0
+1940,2019-08-20,Angels,5,6,0,Rangers,1,5,0
+1941,2019-08-20,Angels,2,7,1,Rangers,3,8,0
+1942,2019-08-20,Royals,1,6,0,Orioles,4,7,0
+1943,2019-08-20,Nationals,1,6,0,Pirates,4,7,0
+1944,2019-08-20,Indians,2,6,2,Mets,9,9,1
+1945,2019-08-20,Padres,2,4,2,Reds,3,5,1
+1946,2019-08-20,Mariners,7,9,1,Rays,4,8,1
+1947,2019-08-20,Phillies,3,7,0,Red Sox,2,6,0
+1948,2019-08-20,Marlins,1,8,2,Braves,5,7,1
+1949,2019-08-20,Brewers,4,12,0,Cardinals,9,10,0
+1950,2019-08-20,Giants,3,6,0,Cubs,5,9,0
+1951,2019-08-20,Tigers,3,10,0,Astros,6,8,0
+1952,2019-08-20,White Sox,4,6,1,Twins,14,14,0
+1953,2019-08-20,Rockies,7,13,2,D-backs,8,9,1
+1954,2019-08-20,Yankees,2,11,1,Athletics,6,9,0
+1955,2019-08-20,Blue Jays,3,7,0,Dodgers,16,15,0
+1956,2019-08-21,Padres,2,6,2,Reds,4,10,0
+1957,2019-08-21,Mariners,6,8,0,Rays,7,11,0
+1958,2019-08-21,White Sox,4,10,0,Twins,0,3,1
+1959,2019-08-21,Rockies,7,13,0,D-backs,2,4,0
+1960,2019-08-21,Royals,1,7,0,Orioles,8,12,1
+1961,2019-08-21,Nationals,11,12,0,Pirates,1,5,2
+1962,2019-08-21,Angels,7,12,0,Rangers,8,14,3
+1963,2019-08-21,Indians,3,9,0,Mets,4,9,0
+1964,2019-08-21,Phillies,5,6,1,Red Sox,2,8,2
+1965,2019-08-21,Marlins,0,7,1,Braves,5,3,0
+1966,2019-08-21,Brewers,5,8,2,Cardinals,3,6,1
+1967,2019-08-21,Giants,11,13,0,Cubs,12,14,2
+1968,2019-08-21,Tigers,2,2,0,Astros,1,6,0
+1969,2019-08-21,Yankees,4,11,0,Athletics,6,6,1
+1970,2019-08-21,Blue Jays,1,6,0,Dodgers,2,6,0
+1971,2019-08-22,Royals,4,13,0,Red Sox,5,12,0
+1972,2019-08-22,Giants,0,4,1,Cubs,1,2,0
+1973,2019-08-22,Nationals,7,14,0,Pirates,1,7,1
+1974,2019-08-22,Rays,5,8,2,Orioles,2,5,0
+1975,2019-08-22,Indians,0,2,2,Mets,2,5,0
+1976,2019-08-22,Marlins,2,6,2,Braves,3,6,0
+1977,2019-08-22,Rockies,5,8,0,Cardinals,6,9,2
+1978,2019-08-22,Tigers,3,5,0,Astros,6,9,0
+1979,2019-08-22,Rangers,1,3,0,White Sox,6,10,0
+1980,2019-08-22,Yankees,3,8,0,Athletics,5,10,0
+1981,2019-08-22,Blue Jays,2,5,0,Dodgers,3,4,0
+1982,2019-08-23,Nationals,9,14,1,Cubs,3,3,1
+1983,2019-08-23,Reds,2,8,1,Pirates,3,9,0
+1984,2019-08-23,Rays,7,11,0,Orioles,1,5,0
+1985,2019-08-23,Royals,1,6,0,Indians,4,9,0
+1986,2019-08-23,Braves,2,8,0,Mets,1,6,0
+1987,2019-08-23,Phillies,11,11,1,Marlins,19,19,1
+1988,2019-08-23,Angels,4,11,0,Astros,5,13,1
+1989,2019-08-23,Tigers,9,17,0,Twins,6,9,0
+1990,2019-08-23,Rangers,3,4,0,White Sox,8,12,0
+1991,2019-08-23,D-backs,1,2,0,Brewers,6,11,0
+1992,2019-08-23,Rockies,3,5,2,Cardinals,8,13,0
+1993,2019-08-23,Red Sox,11,14,1,Padres,0,5,3
+1994,2019-08-23,Blue Jays,4,11,1,Mariners,7,12,1
+1995,2019-08-23,Yankees,10,16,0,Dodgers,2,6,1
+1996,2019-08-24,Nationals,7,9,1,Cubs,2,7,2
+1997,2019-08-24,Yankees,1,5,0,Dodgers,2,6,0
+1998,2019-08-24,Phillies,9,12,0,Marlins,3,8,0
+1999,2019-08-24,Reds,0,7,1,Pirates,14,10,0
+2000,2019-08-24,Rays,1,6,0,Orioles,7,7,1
+2001,2019-08-24,Angels,2,7,0,Astros,5,8,0
+2002,2019-08-24,Royals,2,6,0,Indians,4,7,1
+2003,2019-08-24,Tigers,5,12,0,Twins,8,11,1
+2004,2019-08-24,Braves,9,11,0,Mets,5,11,1
+2005,2019-08-24,Rangers,4,9,2,White Sox,0,8,3
+2006,2019-08-24,D-backs,0,4,1,Brewers,4,7,0
+2007,2019-08-24,Rockies,0,4,0,Cardinals,6,6,0
+2008,2019-08-24,Red Sox,5,10,0,Padres,4,7,1
+2009,2019-08-24,Giants,10,13,0,Athletics,5,10,1
+2010,2019-08-24,Blue Jays,7,7,1,Mariners,5,8,1
+2011,2019-08-25,Rays,3,10,0,Orioles,8,16,1
+2012,2019-08-25,Royals,9,9,1,Indians,8,8,2
+2013,2019-08-25,Braves,2,3,1,Mets,1,7,0
+2014,2019-08-25,Phillies,2,4,0,Marlins,3,6,0
+2015,2019-08-25,Reds,8,11,1,Pirates,9,12,0
+2016,2019-08-25,Angels,2,4,0,Astros,11,10,0
+2017,2019-08-25,Tigers,4,9,0,Twins,7,5,0
+2018,2019-08-25,Rangers,0,1,1,White Sox,2,5,2
+2019,2019-08-25,D-backs,5,9,0,Brewers,2,7,1
+2020,2019-08-25,Rockies,4,7,0,Cardinals,11,15,1
+2021,2019-08-25,Nationals,7,14,0,Cubs,5,7,0
+2022,2019-08-25,Giants,5,8,1,Athletics,4,7,2
+2023,2019-08-25,Red Sox,1,4,0,Padres,3,5,1
+2024,2019-08-25,Blue Jays,1,5,1,Mariners,3,4,1
+2025,2019-08-25,Yankees,5,8,0,Dodgers,1,5,2
+2026,2019-08-26,Braves,1,7,0,Rockies,3,6,0
+2027,2019-08-26,Pirates,5,13,0,Phillies,6,11,0
+2028,2019-08-26,Cardinals,12,12,0,Brewers,2,9,2
+2029,2019-08-26,Reds,6,10,0,Marlins,3,5,0
+2030,2019-08-26,Athletics,19,22,0,Royals,4,11,0
+2031,2019-08-26,D-backs,6,11,3,Giants,4,9,1
+2032,2019-08-26,Dodgers,3,7,1,Padres,4,4,0
+2033,2019-08-26,Yankees,5,9,0,Mariners,4,4,0
+2034,2019-08-27,Orioles,2,5,0,Nationals,0,4,0
+2035,2019-08-27,Pirates,5,11,0,Phillies,4,11,1
+2036,2019-08-27,Braves,1,7,3,Blue Jays,3,10,0
+2037,2019-08-27,Indians,10,13,0,Tigers,1,3,1
+2038,2019-08-27,Cubs,5,11,0,Mets,2,6,0
+2039,2019-08-27,Reds,8,12,0,Marlins,5,10,2
+2040,2019-08-27,Cardinals,6,11,0,Brewers,3,7,1
+2041,2019-08-27,Rays,1,7,1,Astros,15,18,0
+2042,2019-08-27,Twins,3,8,0,White Sox,1,6,0
+2043,2019-08-27,Athletics,2,5,0,Royals,1,9,1
+2044,2019-08-27,Red Sox,10,10,0,Rockies,6,15,3
+2045,2019-08-27,D-backs,3,7,1,Giants,2,5,0
+2046,2019-08-27,Rangers,2,6,0,Angels,5,5,1
+2047,2019-08-27,Dodgers,9,14,0,Padres,0,5,2
+2048,2019-08-27,Yankees,7,11,1,Mariners,0,3,1
+2049,2019-08-28,Cardinals,1,7,1,Brewers,4,6,0
+2050,2019-08-28,Yankees,7,11,1,Mariners,3,3,0
+2051,2019-08-28,Pirates,3,9,2,Phillies,12,17,0
+2052,2019-08-28,Orioles,4,9,1,Nationals,8,13,0
+2053,2019-08-28,Braves,9,11,0,Blue Jays,4,10,1
+2054,2019-08-28,Indians,4,9,1,Tigers,2,7,0
+2055,2019-08-28,Cubs,10,12,1,Mets,7,14,1
+2056,2019-08-28,Reds,5,7,0,Marlins,0,4,0
+2057,2019-08-28,Rays,6,7,1,Astros,8,10,0
+2058,2019-08-28,Twins,8,12,0,White Sox,2,9,1
+2059,2019-08-28,Athletics,4,8,0,Royals,6,9,0
+2060,2019-08-28,Red Sox,7,12,0,Rockies,4,11,1
+2061,2019-08-28,Dodgers,6,9,0,Padres,4,5,1
+2062,2019-08-28,Rangers,3,7,0,Angels,0,3,0
+2063,2019-08-29,Indians,2,7,0,Tigers,0,4,0
+2064,2019-08-29,Athletics,9,14,1,Royals,8,11,1
+2065,2019-08-29,Rays,9,14,2,Astros,8,8,0
+2066,2019-08-29,Twins,10,16,2,White Sox,5,12,0
+2067,2019-08-29,Cubs,4,6,1,Mets,1,5,0
+2068,2019-08-29,Reds,3,6,0,Marlins,4,9,1
+2069,2019-08-29,Mariners,5,7,0,Rangers,3,7,2
+2070,2019-08-29,Pirates,11,15,0,Rockies,8,12,0
+2071,2019-08-29,Dodgers,5,7,1,D-backs,11,16,0
+2072,2019-08-29,Padres,5,8,0,Giants,3,8,0
+2073,2019-08-30,Brewers,1,8,1,Cubs,7,11,0
+2074,2019-08-30,Mets,11,12,0,Phillies,5,12,0
+2075,2019-08-30,Marlins,6,8,0,Nationals,7,9,2
+2076,2019-08-30,Athletics,8,12,0,Yankees,2,6,0
+2077,2019-08-30,Astros,7,13,0,Blue Jays,4,8,1
+2078,2019-08-30,Indians,0,5,0,Rays,4,8,0
+2079,2019-08-30,Twins,13,14,0,Tigers,5,12,1
+2080,2019-08-30,White Sox,7,7,2,Braves,10,13,1
+2081,2019-08-30,Mariners,3,10,2,Rangers,6,7,1
+2082,2019-08-30,Orioles,14,21,0,Royals,2,6,2
+2083,2019-08-30,Pirates,9,16,0,Rockies,4,10,2
+2084,2019-08-30,Dodgers,4,10,0,D-backs,5,8,0
+2085,2019-08-30,Red Sox,7,8,1,Angels,6,11,1
+2086,2019-08-30,Padres,3,6,1,Giants,8,13,1
+2087,2019-08-31,Athletics,3,8,0,Yankees,4,6,0
+2088,2019-08-31,Reds,6,7,2,Cardinals,10,12,0
+2089,2019-08-31,Reds,2,3,1,Cardinals,3,8,1
+2090,2019-08-31,Brewers,2,8,0,Cubs,0,6,0
+2091,2019-08-31,Astros,4,6,0,Blue Jays,6,10,0
+2092,2019-08-31,Mets,6,13,1,Phillies,3,9,2
+2093,2019-08-31,Indians,6,11,1,Rays,9,11,0
+2094,2019-08-31,Twins,7,10,2,Tigers,10,15,0
+2095,2019-08-31,Marlins,0,2,0,Nationals,7,8,0
+2096,2019-08-31,Orioles,5,5,2,Royals,7,8,0
+2097,2019-08-31,White Sox,5,13,0,Braves,11,12,2
+2098,2019-08-31,Mariners,2,9,0,Rangers,3,6,1
+2099,2019-08-31,Dodgers,5,10,1,D-backs,6,6,0
+2100,2019-08-31,Pirates,11,18,0,Rockies,4,9,2
+2101,2019-08-31,Padres,4,11,0,Giants,1,9,0
+2102,2019-08-31,Red Sox,4,9,0,Angels,10,13,2
+2103,2019-09-01,Reds,3,5,2,Cardinals,4,6,0
+2104,2019-09-01,Reds,5,7,1,Cardinals,3,6,1
+2105,2019-09-01,Athletics,4,4,0,Yankees,5,6,0
+2106,2019-09-01,Astros,2,5,0,Blue Jays,0,0,0
+2107,2019-09-01,Indians,2,6,1,Rays,8,14,0
+2108,2019-09-01,Twins,8,12,0,Tigers,3,8,0
+2109,2019-09-01,Marlins,3,4,3,Nationals,9,9,0
+2110,2019-09-01,Orioles,4,8,0,Royals,6,11,2
+2111,2019-09-01,Brewers,4,7,0,Cubs,0,4,0
+2112,2019-09-01,Mariners,11,13,0,Rangers,3,9,0
+2113,2019-09-01,Pirates,6,14,1,Rockies,2,5,3
+2114,2019-09-01,Padres,8,13,0,Giants,4,7,0
+2115,2019-09-01,Red Sox,4,8,0,Angels,3,8,0
+2116,2019-09-01,Dodgers,4,9,0,D-backs,3,8,0
+2117,2019-09-01,White Sox,3,5,0,Braves,5,6,0
+2118,2019-09-01,Mets,2,4,1,Phillies,5,9,0
+2119,2019-09-02,Mets,7,11,0,Nationals,3,5,1
+2120,2019-09-02,Rangers,7,12,0,Yankees,0,6,1
+2121,2019-09-02,Orioles,4,10,0,Rays,5,6,0
+2122,2019-09-02,Twins,4,14,1,Tigers,3,9,0
+2123,2019-09-02,Blue Jays,3,5,3,Braves,6,4,0
+2124,2019-09-02,Phillies,7,6,0,Reds,1,7,2
+2125,2019-09-02,Giants,1,5,0,Cardinals,3,6,0
+2126,2019-09-02,Mariners,1,4,1,Cubs,5,7,0
+2127,2019-09-02,Padres,7,12,2,D-backs,14,18,1
+2128,2019-09-02,Astros,3,10,1,Brewers,2,6,0
+2129,2019-09-02,White Sox,3,10,1,Indians,11,11,2
+2130,2019-09-02,Rockies,9,12,1,Dodgers,16,17,0
+2131,2019-09-03,Orioles,4,11,0,Rays,2,5,0
+2132,2019-09-03,Orioles,0,5,0,Rays,2,7,1
+2133,2019-09-03,Rangers,1,3,0,Yankees,10,11,0
+2134,2019-09-03,Phillies,6,10,0,Reds,2,6,0
+2135,2019-09-03,Mets,10,11,0,Nationals,11,15,1
+2136,2019-09-03,Marlins,5,7,0,Pirates,4,4,2
+2137,2019-09-03,Twins,6,8,0,Red Sox,5,6,0
+2138,2019-09-03,White Sox,6,7,0,Indians,5,6,0
+2139,2019-09-03,Blue Jays,2,6,0,Braves,7,8,0
+2140,2019-09-03,Astros,2,6,0,Brewers,4,9,0
+2141,2019-09-03,Giants,0,2,0,Cardinals,1,5,0
+2142,2019-09-03,Mariners,1,9,1,Cubs,6,8,0
+2143,2019-09-03,Tigers,5,14,0,Royals,6,9,0
+2144,2019-09-03,Padres,1,7,0,D-backs,2,7,0
+2145,2019-09-03,Angels,5,8,2,Athletics,7,6,0
+2146,2019-09-03,Rockies,3,8,0,Dodgers,5,6,0
+2147,2019-09-04,Mets,8,13,0,Nationals,4,11,1
+2148,2019-09-04,Rangers,1,7,0,Yankees,4,6,0
+2149,2019-09-04,Phillies,5,7,0,Reds,8,9,0
+2150,2019-09-04,Marlins,5,10,1,Pirates,6,10,1
+2151,2019-09-04,Twins,2,8,0,Red Sox,6,9,0
+2152,2019-09-04,White Sox,6,13,2,Indians,8,14,0
+2153,2019-09-04,Giants,9,15,1,Cardinals,8,13,1
+2154,2019-09-04,Tigers,4,8,0,Royals,5,12,0
+2155,2019-09-04,Padres,1,3,0,D-backs,4,9,1
+2156,2019-09-04,Angels,0,5,0,Athletics,4,5,0
+2157,2019-09-04,Rockies,3,7,0,Dodgers,7,8,0
+2158,2019-09-05,Phillies,3,7,0,Reds,4,9,1
+2159,2019-09-05,White Sox,7,12,0,Indians,1,1,0
+2160,2019-09-05,Tigers,6,11,0,Royals,4,12,1
+2161,2019-09-05,Giants,0,4,1,Cardinals,10,12,0
+2162,2019-09-05,Angels,6,10,0,Athletics,10,10,1
+2163,2019-09-05,Rangers,3,5,2,Orioles,1,10,2
+2164,2019-09-05,Marlins,10,16,2,Pirates,7,10,2
+2165,2019-09-05,Blue Jays,4,8,2,Rays,6,9,0
+2166,2019-09-05,Twins,2,2,1,Red Sox,1,4,1
+2167,2019-09-05,Cubs,10,16,2,Brewers,5,6,1
+2168,2019-09-05,Nationals,2,3,0,Braves,4,6,0
+2169,2019-09-05,Mariners,9,12,1,Astros,11,11,0
+2170,2019-09-06,Cardinals,4,9,0,Pirates,9,12,0
+2171,2019-09-06,Rangers,7,12,0,Orioles,6,10,0
+2172,2019-09-06,D-backs,7,12,0,Reds,5,7,0
+2173,2019-09-06,Blue Jays,0,2,1,Rays,5,9,0
+2174,2019-09-06,Phillies,4,9,0,Mets,5,10,0
+2175,2019-09-06,Royals,3,9,0,Marlins,0,7,1
+2176,2019-09-06,Yankees,1,3,0,Red Sox,6,6,0
+2177,2019-09-06,Nationals,3,9,2,Braves,4,7,0
+2178,2019-09-06,Mariners,4,4,1,Astros,7,9,1
+2179,2019-09-06,Indians,6,10,1,Twins,2,9,0
+2180,2019-09-06,Angels,5,5,0,White Sox,4,6,0
+2181,2019-09-06,Cubs,1,3,2,Brewers,7,10,0
+2182,2019-09-06,Athletics,7,12,1,Tigers,3,5,0
+2183,2019-09-06,Tigers,5,11,0,Athletics,4,6,0
+2184,2019-09-06,Rockies,3,7,0,Padres,2,5,1
+2185,2019-09-06,Giants,5,9,0,Dodgers,4,6,0
+2186,2019-09-07,Yankees,5,9,0,Red Sox,1,5,0
+2187,2019-09-07,D-backs,2,4,0,Reds,0,3,2
+2188,2019-09-07,Blue Jays,3,6,0,Rays,5,8,0
+2189,2019-09-07,Royals,7,10,0,Marlins,2,4,3
+2190,2019-09-07,Cardinals,10,11,0,Pirates,1,6,2
+2191,2019-09-07,Rangers,9,12,2,Orioles,4,6,3
+2192,2019-09-07,Mariners,1,6,0,Astros,2,6,1
+2193,2019-09-07,Indians,3,7,1,Twins,5,7,0
+2194,2019-09-07,Phillies,5,11,2,Mets,0,6,1
+2195,2019-09-07,Angels,8,11,1,White Sox,7,8,1
+2196,2019-09-07,Cubs,2,4,1,Brewers,3,7,1
+2197,2019-09-07,Nationals,4,5,0,Braves,5,6,0
+2198,2019-09-07,Rockies,0,3,0,Padres,3,6,0
+2199,2019-09-07,Tigers,2,9,0,Athletics,10,12,0
+2200,2019-09-07,Giants,1,5,0,Dodgers,0,4,0
+2201,2019-09-08,Rangers,10,20,0,Orioles,4,7,0
+2202,2019-09-08,D-backs,3,3,0,Reds,4,12,1
+2203,2019-09-08,Blue Jays,3,6,0,Rays,8,10,0
+2204,2019-09-08,Phillies,10,13,0,Mets,7,14,1
+2205,2019-09-08,Royals,0,4,1,Marlins,9,13,0
+2206,2019-09-08,Nationals,9,17,0,Braves,4,7,0
+2207,2019-09-08,Cardinals,2,5,0,Pirates,0,5,0
+2208,2019-09-08,Mariners,1,1,1,Astros,21,22,0
+2209,2019-09-08,Indians,5,11,0,Twins,2,5,0
+2210,2019-09-08,Angels,1,5,0,White Sox,5,11,0
+2211,2019-09-08,Cubs,5,7,0,Brewers,8,9,1
+2212,2019-09-08,Tigers,1,2,1,Athletics,3,7,0
+2213,2019-09-08,Rockies,1,4,0,Padres,2,7,0
+2214,2019-09-08,Giants,0,4,1,Dodgers,5,5,0
+2215,2019-09-08,Yankees,10,13,0,Red Sox,5,9,3
+2216,2019-09-09,Braves,7,8,0,Phillies,2,5,0
+2217,2019-09-09,D-backs,1,3,0,Mets,3,9,1
+2218,2019-09-09,Yankees,5,12,0,Red Sox,0,7,0
+2219,2019-09-09,Brewers,8,12,0,Marlins,3,10,0
+2220,2019-09-09,Athletics,0,3,1,Astros,15,17,1
+2221,2019-09-09,Pirates,6,10,0,Giants,4,9,1
+2222,2019-09-09,Indians,6,9,0,Angels,2,7,1
+2223,2019-09-09,Cubs,10,15,2,Padres,2,9,1
+2224,2019-09-10,Yankees,11,11,1,Tigers,12,16,0
+2225,2019-09-10,Dodgers,7,13,1,Orioles,3,7,0
+2226,2019-09-10,Braves,5,10,0,Phillies,6,8,1
+2227,2019-09-10,Red Sox,3,8,0,Blue Jays,4,9,0
+2228,2019-09-10,D-backs,2,10,0,Mets,3,5,0
+2229,2019-09-10,Brewers,4,6,0,Marlins,3,8,1
+2230,2019-09-10,Nationals,0,2,0,Twins,5,6,1
+2231,2019-09-10,Rays,5,10,1,Rangers,3,5,2
+2232,2019-09-10,Athletics,21,25,0,Astros,7,12,0
+2233,2019-09-10,Royals,3,8,1,White Sox,7,9,0
+2234,2019-09-10,Cardinals,1,6,0,Rockies,2,7,1
+2235,2019-09-10,Pirates,4,7,1,Giants,5,9,0
+2236,2019-09-10,Indians,8,8,0,Angels,0,4,0
+2237,2019-09-10,Cubs,8,9,1,Padres,9,11,1
+2238,2019-09-10,Reds,3,8,0,Mariners,4,4,0
+2239,2019-09-11,Dodgers,3,6,2,Orioles,7,9,0
+2240,2019-09-11,Braves,3,7,0,Phillies,1,5,1
+2241,2019-09-11,Red Sox,0,2,1,Blue Jays,8,11,1
+2242,2019-09-11,D-backs,0,7,0,Mets,9,11,0
+2243,2019-09-11,Brewers,7,8,2,Marlins,5,8,0
+2244,2019-09-11,Nationals,6,9,0,Twins,2,8,0
+2245,2019-09-11,Rays,9,12,1,Rangers,10,10,0
+2246,2019-09-11,Indians,4,10,0,Angels,3,7,0
+2247,2019-09-11,Athletics,5,7,0,Astros,3,8,0
+2248,2019-09-11,Royals,8,14,0,White Sox,6,8,0
+2249,2019-09-11,Cardinals,1,6,0,Rockies,2,6,2
+2250,2019-09-11,Pirates,6,9,2,Giants,3,3,2
+2251,2019-09-11,Cubs,0,3,2,Padres,4,7,0
+2252,2019-09-11,Reds,3,5,1,Mariners,5,4,0
+2253,2019-09-12,D-backs,1,4,1,Mets,11,11,0
+2254,2019-09-12,Yankees,10,10,0,Tigers,4,11,3
+2255,2019-09-12,Yankees,6,11,1,Tigers,4,7,1
+2256,2019-09-12,Brewers,3,6,1,Marlins,2,7,0
+2257,2019-09-12,Royals,6,6,0,White Sox,3,11,1
+2258,2019-09-12,Cardinals,10,11,0,Rockies,3,7,0
+2259,2019-09-12,Cubs,4,8,0,Padres,1,5,0
+2260,2019-09-12,Pirates,4,8,0,Giants,2,8,0
+2261,2019-09-12,Red Sox,7,12,0,Blue Jays,4,7,3
+2262,2019-09-12,Dodgers,4,6,0,Orioles,2,2,1
+2263,2019-09-12,Braves,5,7,0,Phillies,9,11,1
+2264,2019-09-12,Nationals,12,14,0,Twins,6,12,0
+2265,2019-09-12,Rays,4,10,2,Rangers,6,11,0
+2266,2019-09-12,Athletics,3,6,1,Astros,2,6,0
+2267,2019-09-12,Reds,11,11,0,Mariners,5,11,0
+2268,2019-09-13,Pirates,8,13,0,Cubs,17,16,3
+2269,2019-09-13,Braves,5,12,0,Nationals,0,3,0
+2270,2019-09-13,Yankees,5,9,2,Blue Jays,6,13,1
+2271,2019-09-13,Orioles,6,10,0,Tigers,2,10,0
+2272,2019-09-13,Dodgers,9,11,0,Mets,2,5,0
+2273,2019-09-13,Athletics,14,14,2,Rangers,9,7,0
+2274,2019-09-13,Astros,4,7,1,Royals,1,5,0
+2275,2019-09-13,Brewers,0,2,0,Cardinals,10,8,0
+2276,2019-09-13,Padres,8,9,1,Rockies,10,14,1
+2277,2019-09-13,Reds,4,5,0,D-backs,3,7,1
+2278,2019-09-13,Rays,11,15,0,Angels,4,8,0
+2279,2019-09-13,White Sox,9,15,0,Mariners,7,12,1
+2280,2019-09-13,Marlins,0,4,0,Giants,1,9,0
+2281,2019-09-14,Twins,2,7,1,Indians,0,5,0
+2282,2019-09-14,Twins,9,8,0,Indians,5,8,1
+2283,2019-09-14,Pirates,1,8,0,Cubs,14,14,0
+2284,2019-09-14,Yankees,13,19,1,Blue Jays,3,9,1
+2285,2019-09-14,Braves,10,14,0,Nationals,1,6,2
+2286,2019-09-14,Orioles,4,10,0,Tigers,8,13,1
+2287,2019-09-14,Red Sox,2,6,0,Phillies,1,5,0
+2288,2019-09-14,Dodgers,0,3,0,Mets,3,3,0
+2289,2019-09-14,Astros,6,10,0,Royals,1,8,1
+2290,2019-09-14,Brewers,5,7,1,Cardinals,2,7,0
+2291,2019-09-14,Athletics,8,12,2,Rangers,6,12,2
+2292,2019-09-14,Reds,0,3,1,D-backs,1,1,1
+2293,2019-09-14,Padres,10,10,2,Rockies,11,12,1
+2294,2019-09-14,Marlins,4,7,0,Giants,2,8,1
+2295,2019-09-14,Rays,3,5,2,Angels,1,6,1
+2296,2019-09-14,White Sox,1,7,0,Mariners,2,6,0
+2297,2019-09-15,Red Sox,6,6,0,Phillies,3,7,1
+2298,2019-09-15,Yankees,4,6,0,Blue Jays,6,8,1
+2299,2019-09-15,Orioles,8,12,0,Tigers,2,12,0
+2300,2019-09-15,Twins,5,13,4,Indians,7,10,0
+2301,2019-09-15,Braves,0,4,0,Nationals,7,10,0
+2302,2019-09-15,Astros,12,16,0,Royals,3,12,0
+2303,2019-09-15,Brewers,7,12,1,Cardinals,6,5,1
+2304,2019-09-15,Pirates,6,14,1,Cubs,16,19,1
+2305,2019-09-15,Athletics,6,7,1,Rangers,1,5,0
+2306,2019-09-15,Padres,5,8,0,Rockies,10,12,0
+2307,2019-09-15,Marlins,1,5,1,Giants,2,7,1
+2308,2019-09-15,Rays,4,6,0,Angels,6,11,0
+2309,2019-09-15,Reds,3,6,2,D-backs,1,4,0
+2310,2019-09-15,White Sox,10,12,1,Mariners,11,17,1
+2311,2019-09-15,Dodgers,3,9,0,Mets,2,3,0
+2312,2019-09-16,Orioles,2,9,0,Tigers,5,7,0
+2313,2019-09-16,White Sox,3,6,2,Twins,5,10,1
+2314,2019-09-16,Padres,1,2,1,Brewers,5,8,0
+2315,2019-09-16,Nationals,2,5,1,Cardinals,4,5,0
+2316,2019-09-16,Reds,2,6,1,Cubs,8,10,0
+2317,2019-09-16,Mets,4,9,1,Rockies,9,13,0
+2318,2019-09-16,Marlins,5,8,2,D-backs,7,9,1
+2319,2019-09-16,Royals,6,11,0,Athletics,5,10,1
+2320,2019-09-17,Angels,0,6,0,Yankees,8,10,0
+2321,2019-09-17,Mariners,6,10,0,Pirates,0,8,0
+2322,2019-09-17,Blue Jays,8,12,1,Orioles,5,8,1
+2323,2019-09-17,Tigers,2,4,1,Indians,7,12,0
+2324,2019-09-17,Giants,7,14,0,Red Sox,6,14,1
+2325,2019-09-17,Phillies,5,9,0,Braves,4,8,0
+2326,2019-09-17,White Sox,8,20,0,Twins,9,15,1
+2327,2019-09-17,Padres,1,4,1,Brewers,3,4,0
+2328,2019-09-17,Nationals,6,12,2,Cardinals,2,6,0
+2329,2019-09-17,Reds,4,7,0,Cubs,2,5,0
+2330,2019-09-17,Rangers,1,6,0,Astros,4,7,0
+2331,2019-09-17,Mets,6,11,0,Rockies,1,6,0
+2332,2019-09-17,Marlins,12,17,0,D-backs,6,13,1
+2333,2019-09-17,Royals,1,6,0,Athletics,2,4,0
+2334,2019-09-17,Rays,5,6,1,Dodgers,7,6,2
+2335,2019-09-18,Nationals,1,9,0,Cardinals,5,8,2
+2336,2019-09-18,Mets,7,10,1,Rockies,4,11,0
+2337,2019-09-18,Royals,0,4,1,Athletics,1,5,0
+2338,2019-09-18,Marlins,4,10,1,D-backs,5,9,1
+2339,2019-09-18,Angels,3,10,0,Yankees,2,6,1
+2340,2019-09-18,Mariners,4,7,0,Pirates,1,6,0
+2341,2019-09-18,Blue Jays,11,15,1,Orioles,10,16,2
+2342,2019-09-18,Tigers,1,4,1,Indians,2,9,0
+2343,2019-09-18,Giants,11,15,0,Red Sox,3,6,1
+2344,2019-09-18,Phillies,4,4,3,Braves,1,5,0
+2345,2019-09-18,White Sox,3,10,0,Twins,1,3,0
+2346,2019-09-18,Padres,2,8,1,Brewers,1,3,0
+2347,2019-09-18,Reds,3,10,0,Cubs,2,4,1
+2348,2019-09-18,Rays,8,14,1,Dodgers,7,12,2
+2349,2019-09-18,Rangers,2,7,1,Astros,3,6,1
+2350,2019-09-19,Phillies,4,11,0,Braves,5,9,0
+2351,2019-09-19,Mariners,6,13,1,Pirates,5,11,3
+2352,2019-09-19,Giants,4,7,2,Red Sox,5,10,1
+2353,2019-09-19,Padres,1,5,1,Brewers,5,7,1
+2354,2019-09-19,Angels,1,5,0,Yankees,9,8,0
+2355,2019-09-19,Blue Jays,8,10,0,Orioles,4,8,0
+2356,2019-09-19,Tigers,0,9,0,Indians,7,12,1
+2357,2019-09-19,Cardinals,5,10,0,Cubs,4,6,1
+2358,2019-09-19,Royals,5,10,0,Twins,8,10,0
+2359,2019-09-20,Cardinals,2,4,1,Cubs,1,9,1
+2360,2019-09-20,Mariners,3,4,0,Orioles,5,8,1
+2361,2019-09-20,Blue Jays,4,7,0,Yankees,3,6,0
+2362,2019-09-20,Mets,8,10,0,Reds,1,7,1
+2363,2019-09-20,Red Sox,4,7,0,Rays,5,8,0
+2364,2019-09-20,Phillies,2,7,0,Indians,5,7,0
+2365,2019-09-20,White Sox,10,19,0,Tigers,1,7,3
+2366,2019-09-20,Nationals,6,7,2,Marlins,4,10,0
+2367,2019-09-20,Giants,0,4,0,Braves,6,7,1
+2368,2019-09-20,Angels,4,8,0,Astros,6,10,0
+2369,2019-09-20,Royals,3,7,0,Twins,4,5,1
+2370,2019-09-20,Pirates,1,6,1,Brewers,10,10,2
+2371,2019-09-20,Rangers,0,2,0,Athletics,8,9,0
+2372,2019-09-20,Rockies,5,10,1,Dodgers,12,13,0
+2373,2019-09-20,D-backs,9,7,1,Padres,0,3,2
+2374,2019-09-21,Blue Jays,2,6,0,Yankees,7,11,1
+2375,2019-09-21,Cardinals,9,13,0,Cubs,8,10,0
+2376,2019-09-21,Mets,2,3,1,Reds,3,9,1
+2377,2019-09-21,Red Sox,4,7,0,Rays,5,10,0
+2378,2019-09-21,White Sox,5,17,0,Tigers,3,11,0
+2379,2019-09-21,Nationals,10,16,1,Marlins,4,7,0
+2380,2019-09-21,Mariners,7,11,1,Orioles,6,8,1
+2381,2019-09-21,Angels,8,12,1,Astros,4,6,1
+2382,2019-09-21,Royals,12,16,1,Twins,5,9,1
+2383,2019-09-21,Phillies,9,10,2,Indians,4,5,1
+2384,2019-09-21,Pirates,1,6,2,Brewers,10,10,1
+2385,2019-09-21,Giants,1,7,0,Braves,8,5,2
+2386,2019-09-21,D-backs,4,8,2,Padres,2,5,0
+2387,2019-09-21,Rangers,3,8,2,Athletics,12,14,0
+2388,2019-09-21,Rockies,4,7,1,Dodgers,2,6,0
+2389,2019-09-22,Mariners,1,7,2,Orioles,2,3,0
+2390,2019-09-22,Blue Jays,3,9,0,Yankees,8,7,0
+2391,2019-09-22,Mets,6,9,0,Reds,3,6,0
+2392,2019-09-22,Red Sox,7,11,0,Rays,4,9,2
+2393,2019-09-22,White Sox,3,11,0,Tigers,6,12,0
+2394,2019-09-22,Nationals,3,6,2,Marlins,5,6,0
+2395,2019-09-22,Giants,4,10,0,Braves,1,5,2
+2396,2019-09-22,Angels,5,8,0,Astros,13,15,1
+2397,2019-09-22,Royals,8,12,0,Twins,12,13,1
+2398,2019-09-22,Pirates,3,4,0,Brewers,4,7,1
+2399,2019-09-22,Cardinals,3,7,0,Cubs,2,9,0
+2400,2019-09-22,Rangers,8,11,0,Athletics,3,11,0
+2401,2019-09-22,Rockies,4,8,0,Dodgers,7,11,1
+2402,2019-09-22,D-backs,4,8,0,Padres,6,10,0
+2403,2019-09-22,Phillies,1,5,3,Indians,10,9,0
+2404,2019-09-23,Phillies,2,5,0,Nationals,7,10,1
+2405,2019-09-23,Orioles,10,16,1,Blue Jays,11,13,0
+2406,2019-09-23,Red Sox,4,10,0,Rays,7,8,0
+2407,2019-09-23,Marlins,8,13,0,Mets,4,9,0
+2408,2019-09-23,Cardinals,9,9,1,D-backs,7,11,1
+2409,2019-09-24,Phillies,1,5,0,Nationals,4,7,0
+2410,2019-09-24,Phillies,5,6,0,Nationals,6,7,0
+2411,2019-09-24,Twins,4,8,0,Tigers,2,6,0
+2412,2019-09-24,Brewers,4,7,1,Reds,2,8,1
+2413,2019-09-24,Cubs,2,9,5,Pirates,9,10,0
+2414,2019-09-24,Orioles,11,15,0,Blue Jays,4,6,0
+2415,2019-09-24,Marlins,4,11,1,Mets,5,9,0
+2416,2019-09-24,Yankees,1,7,0,Rays,2,7,0
+2417,2019-09-24,Red Sox,12,14,0,Rangers,10,15,2
+2418,2019-09-24,Indians,11,12,0,White Sox,0,6,1
+2419,2019-09-24,Braves,6,11,1,Royals,9,12,1
+2420,2019-09-24,Cardinals,2,13,0,D-backs,3,13,2
+2421,2019-09-24,Rockies,8,12,1,Giants,5,8,1
+2422,2019-09-24,Athletics,2,6,0,Angels,3,10,0
+2423,2019-09-24,Dodgers,6,7,1,Padres,3,5,0
+2424,2019-09-24,Astros,3,5,0,Mariners,0,4,0
+2425,2019-09-25,Cardinals,7,10,2,D-backs,9,8,3
+2426,2019-09-25,Twins,5,9,2,Tigers,1,2,1
+2427,2019-09-25,Brewers,9,11,0,Reds,2,5,1
+2428,2019-09-25,Cubs,2,6,0,Pirates,4,9,1
+2429,2019-09-25,Phillies,2,8,1,Nationals,5,8,1
+2430,2019-09-25,Orioles,2,7,0,Blue Jays,3,5,0
+2431,2019-09-25,Marlins,3,4,1,Mets,10,12,1
+2432,2019-09-25,Yankees,0,1,1,Rays,4,9,0
+2433,2019-09-25,Red Sox,10,12,0,Rangers,3,7,1
+2434,2019-09-25,Indians,3,6,1,White Sox,8,14,0
+2435,2019-09-25,Braves,10,14,0,Royals,2,8,0
+2436,2019-09-25,Rockies,1,8,0,Giants,2,7,2
+2437,2019-09-25,Athletics,3,12,0,Angels,2,6,0
+2438,2019-09-25,Dodgers,6,10,2,Padres,4,7,0
+2439,2019-09-25,Astros,3,7,0,Mariners,0,2,0
+2440,2019-09-26,Brewers,5,5,1,Reds,3,9,0
+2441,2019-09-26,Twins,10,13,0,Tigers,4,13,2
+2442,2019-09-26,Red Sox,5,10,1,Rangers,7,7,1
+2443,2019-09-26,Dodgers,1,5,0,Padres,0,3,1
+2444,2019-09-26,Rockies,3,8,1,Giants,8,12,1
+2445,2019-09-26,Phillies,3,7,0,Nationals,6,9,0
+2446,2019-09-26,Cubs,5,6,2,Pirates,9,16,0
+2447,2019-09-26,Marlins,4,6,0,Mets,2,5,0
+2448,2019-09-26,Indians,0,4,0,White Sox,8,11,1
+2449,2019-09-26,Astros,3,12,1,Angels,4,7,0
+2450,2019-09-26,Athletics,3,6,0,Mariners,1,4,2
+2451,2019-09-28,Orioles,9,12,0,Red Sox,4,9,0
+2452,2019-09-28,Twins,4,9,0,Royals,3,7,0
+2453,2019-09-28,Rays,1,3,0,Blue Jays,4,8,0
+2454,2019-09-28,Tigers,1,5,1,White Sox,7,10,0
+2455,2019-09-28,Tigers,4,8,0,White Sox,3,8,1
+2456,2019-09-28,Indians,7,9,0,Nationals,10,11,0
+2457,2019-09-28,Dodgers,2,7,0,Giants,0,7,0
+2458,2019-09-28,Marlins,3,7,2,Phillies,9,10,0
+2459,2019-09-28,Reds,4,13,1,Pirates,2,5,1
+2460,2019-09-28,Cubs,8,16,1,Cardinals,6,6,0
+2461,2019-09-28,Braves,0,4,0,Mets,3,4,0
+2462,2019-09-28,Yankees,4,7,2,Rangers,9,9,0
+2463,2019-09-28,Padres,5,10,0,D-backs,6,5,0
+2464,2019-09-28,Brewers,2,8,0,Rockies,3,10,0
+2465,2019-09-28,Astros,6,6,0,Angels,3,5,0
+2466,2019-09-28,Athletics,1,6,0,Mariners,0,6,0
+2467,2019-09-29,Orioles,4,6,2,Red Sox,5,12,1
+2468,2019-09-29,Indians,2,6,0,Nationals,8,14,0
+2469,2019-09-29,Reds,3,8,0,Pirates,1,7,1
+2470,2019-09-29,Dodgers,9,12,0,Giants,0,3,0
+2471,2019-09-29,Marlins,4,7,1,Phillies,3,13,1
+2472,2019-09-29,Yankees,1,3,2,Rangers,6,10,0
+2473,2019-09-29,Astros,8,13,0,Angels,5,8,0
+2474,2019-09-29,Rays,3,9,0,Blue Jays,8,11,1
+2475,2019-09-29,Padres,0,8,1,D-backs,1,7,0
+2476,2019-09-29,Athletics,1,3,0,Mariners,3,7,0
+2477,2019-09-29,Braves,6,11,0,Mets,7,15,0
+2478,2019-09-29,Tigers,3,7,1,White Sox,5,4,0
+2479,2019-09-29,Brewers,3,7,2,Rockies,4,8,1
+2480,2019-09-29,Cubs,0,3,0,Cardinals,9,9,0
+2481,2019-09-29,Twins,4,6,0,Royals,5,9,0
